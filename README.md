@@ -2,6 +2,15 @@
 
 This is just a list of recruitment resources I use. I couldn't handle everything being in 10000 different places so I decided to put it here. Just for me, but if you want to use it (or add stuff) feel free to do so :).
 
+### Overview
+- [My favourites](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-my-favourites)
+- [Blogs](https://github.com/Sjamilla/awesome-recruitment#-blogs)
+- [Facebook Groups](https://github.com/Sjamilla/awesome-recruitment#-facebook-groups)
+- [Audio](https://github.com/Sjamilla/awesome-recruitment#-audio)
+- [Video](https://github.com/Sjamilla/awesome-recruitment#-video)
+- [Books](https://github.com/Sjamilla/awesome-recruitment#-books)
+- [Extensions](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-tools-chrome-extensions---non-recruitment)
+
 ## ❤️ My favourites
 - the rest are pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
@@ -63,7 +72,7 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
-- [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn) 
+- [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
 - [DuckDuckGo Privacy Essentials
 ](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh
