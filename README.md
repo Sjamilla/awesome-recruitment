@@ -4,7 +4,6 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 
 
 ## 📓 Blogs
-
 - [SourceCon](https://www.sourcecon.com/)
 - [RecruitingDaily](https://recruitingdaily.com/)
 - [SocialTalent Blog](https://www.socialtalent.com/blog)
@@ -40,3 +39,6 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [Sourcers Who Code, also by Susanna ❤️](https://www.youtube.com/playlist?list=PLh9V7buk0vuDxX9G_acEyuZ4VVMa7b51v)
 - [The #SocialRecruiting show](https://www.thesearchologist.com/social-media-recruitment-training/blog/)
 - [RecruiterZone](https://www.crowdcast.io/recruiterzone)
+
+## 🛠️ Tools
+- wip 
