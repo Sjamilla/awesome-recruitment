@@ -13,14 +13,13 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
-- [Sourcing Games](http://sourcing.games/) by Jan Tegze
+- [Sourcing Games](http://sourcing.games/)
 - [IntelTechniques](https://inteltechniques.com/menu.html)
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [Pipl API - _*Demo*_](https://pipl.com/api/demo)
 - [Giphy](https://giphy.com/)
 
-
-- This simple text editor in my browser 
+- This simple text editor in my browser
   - *tip: create a bookmark with this (only this line of code) and pin it on the first tab when you are sourcing*
 
       ```data:text/html,<html><textarea rows="40" style="width: 100%;height: 100wh;"></textarea></html>```
