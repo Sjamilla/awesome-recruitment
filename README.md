@@ -11,6 +11,7 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [AmazingHiring Blog](https://amazinghiring.com/blog/)
 - [Beamery Blog](https://blog.beamery.com/)
 - [Tris Revill, yup you get your own spot here dude 🖖](https://trisrevill.com/)
+- [Recruiting Brainfood (weekly newsletter by Hung Lee)](http://www.recruitingbrainfood.com/)
 
 ## 💬 Facebook Groups
 - [SourceCon](https://www.facebook.com/groups/151466298380729/)
