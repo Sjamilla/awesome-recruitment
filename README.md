@@ -2,6 +2,11 @@
 
 This is just a list of recruitment resources I use. I couldn't handle everything being in 10000 different places so I decided to put it here. Just for me, but if you want to use it (or add stuff) feel free to do so :).
 
+## ❤️ My favourites 
+- the rest are pretty cool too, but these deserve a special place :) 
+- [Sourcing Games](http://sourcing.games/)
+- [IntelTechniques](https://inteltechniques.com/menu.html)
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 
 ## 📓 Blogs
 - [SourceCon](https://www.sourcecon.com/)
@@ -40,5 +45,15 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [The #SocialRecruiting show](https://www.thesearchologist.com/social-media-recruitment-training/blog/)
 - [RecruiterZone](https://www.crowdcast.io/recruiterzone)
 
-## 🛠️ Tools
-- wip 
+## 🛠️ Tools (Chrome Extensions - non recruitment) 
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+- [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
+- [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)
+- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
+- [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
+
+WORK IN PROGRESS 
+
