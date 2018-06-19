@@ -29,6 +29,8 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [BooleanStrings](http://booleanstrings.com/)
 - [Boolean Black Belt-Sourcing/Recruiting](http://booleanblackbelt.com/)
 - [Recruiting Tools](https://recruitingtools.com/)
+- [Tom Ordonez](https://www.tomordonez.com/)
+- [SourcingMonk](https://www.sourcingmonk.com/)
 
 ## 💬 Facebook Groups
 - [SourceCon](https://www.facebook.com/groups/151466298380729/)
@@ -81,10 +83,15 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
 - [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
+- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
+- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+- [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/kdfieneakcjfaiglcfcgkidlkmlijjnh)
+- [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
 
 
 
-## 🛠️ Tools (Chrome Extensions - Recruitment Tools)
+
+## 🛠️ Tools (Extensions & Websites)
 
 #### 🔍 Search
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
@@ -95,7 +102,44 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [People Search](https://chrome.google.com/webstore/detail/people-search-email-and-r/fomgcolbgdjbmnabgijnbmmmoimhlidi)
 - [Search the current site](https://chrome.google.com/webstore/detail/jliolpcnkmolaaecncdfeofombdekjcp)
 - [Search Preview](https://chrome.google.com/webstore/detail/majhgbekihmliceijipbdccgicepmmei)
+- [SourceHub](https://chrome.google.com/webstore/detail/enaamgjepainkdajgmnhbjeafocplknl)
+- [HIRETUAL](https://chrome.google.com/webstore/detail/jeablngoapekimaeoeclgcefdcpjhjcg)
+- [Storyful Multisearch](https://chrome.google.com/webstore/detail/hkglibabhninbjmaccpajiakojeacnaf)
+
+
+#### :phone: Contact info
+- [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna)
+- [Contact Out](https://chrome.google.com/webstore/detail/jjdemeiffadmmjhkbbpglgnlgeafomjo)
+- [Anymail finder](https://chrome.google.com/webstore/detail/binngoomidldeahceppnjjknalcgplfn)
+- [360social](https://chrome.google.com/webstore/detail/bplilbogidkdmacifmkmciboihbcchom)
+- [Discoverly for Gmail, LinkedIn, Facebook...](https://chrome.google.com/webstore/detail/dijhcpbkalfgkcebgoncjmfpbamihgaf)
+-  [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
+
+
+
+#### :squirrel: Scraping
+ - [Data Scraper - Easy Web Scraping](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden)
+ - [Instant Data Scraper](https://chrome.google.com/webstore/detail/ofaokhiedipichpaobibbnahnkdoiiah)
+ - [Recipe Creator](https://chrome.google.com/webstore/detail/icadidhenmiokjlmpdgjikdoknhfgkhg)
+ - [Phantombuster](https://phantombuster.com/)
+ - [Public-APIs list ](https://github.com/toddmotto/public-apis)
+
+#### :octocat: Github Tools
+ - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
+ - [OctoHR](https://chrome.google.com/webstore/detail/beiklbdjdmfkgchmiabjejdlpaoicbef)
+ - [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk)
+ - [CoderStats link for Github Coders](https://chrome.google.com/webstore/detail/necogepejonacpphmlmcagmbjaogpbng)
+ - [Github User Rank](https://chrome.google.com/webstore/detail/oabhkjmpcnkeifhahnlhafajeoofhjak)
+
 
 
 
 WORK IN PROGRESS
+
+
+
+
+***
+
+Using any of these resources is at your own risk. I am not responsible for your safety /
+compliancy. OKTHXBYE xoxo
