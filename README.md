@@ -12,6 +12,10 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [Beamery Blog](https://blog.beamery.com/)
 - [Tris Revill, yup you get your own spot here dude 🖖](https://trisrevill.com/)
 - [Recruiting Brainfood (weekly newsletter by Hung Lee)](http://www.recruitingbrainfood.com/)
+- [Balazs Paroczay](https://thebalazs.com/)
+- [BooleanStrings](http://booleanstrings.com/)
+- [Boolean Black Belt-Sourcing/Recruiting](http://booleanblackbelt.com/)
+- [Recruiting Tools](https://recruitingtools.com/)
 
 ## 💬 Facebook Groups
 - [SourceCon](https://www.facebook.com/groups/151466298380729/)
