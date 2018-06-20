@@ -10,6 +10,7 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [Video](https://github.com/Sjamilla/awesome-recruitment#-video)
 - [Books](https://github.com/Sjamilla/awesome-recruitment#-books)
 - [Extensions](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-tools-chrome-extensions---non-recruitment)
+- [Search Engines](https://github.com/Sjamilla/awesome-recruitment#-search-engines)
 
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
@@ -141,10 +142,6 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Github User Rank](https://chrome.google.com/webstore/detail/oabhkjmpcnkeifhahnlhafajeoofhjak)
 
 
-
-
-WORK IN PROGRESS
-
 ## 🔎 Search Engines
 
 - [Google](https://www.google.com/)
@@ -158,10 +155,11 @@ WORK IN PROGRESS
 - [Search Engine Colossus  *_international directory of search engines_](http://searchenginecolossus.com/)
 - [Wayback Machine](http://archive.org/web/)
 - [List of Custom Search Engines * _please let me know if you know who created this I want to give you the credits for this._](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?)
--
+- [Interpol Wanted People - *I have no idea why you should use this as a recruiter.*](http://www.interpol.int/notice/search/wanted)
 
+WORK IN PROGRESS
 
 ***
 
-_Using any of these resources is at your own risk. I am not responsible for your safety /
-compliancy. OKTHXBYE xoxo_
+_Using any of these resources is at your own risk. Most are not mine, and if they were I wouldn't tell you. I am not responsible for your safety /
+compliancy / relationship / dogs & cats or anything else you like to bitch about. Unless you hire some great people after you found this list, in that case you need to buy me pretty stuff. OKTHXBYE xoxo_
