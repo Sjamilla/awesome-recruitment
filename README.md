@@ -40,6 +40,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Tom Ordonez](https://www.tomordonez.com/)
 - [SourcingMonk](https://www.sourcingmonk.com/)
 - [Guillaume Alexandre](http://www.gates-solutions.com/)
+- [GlossaryTech](https://blog.glossarytech.com/)
 
 ## 💬 Facebook Groups
 - [SourceCon](https://www.facebook.com/groups/151466298380729/)
@@ -145,7 +146,6 @@ The rest is pretty cool too, but these deserve a special place :)
 ## 🔎 Search Engines
 
 - [Google](https://www.google.com/)
-  - [Google Scholar](https://scholar.google.com)
   - [Google Patents](https://patents.google.com/)
   - [Google Trends](https://trends.google.com/trends/)
   - [Google Image Search](https://images.google.com/)
@@ -156,6 +156,17 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Wayback Machine](http://archive.org/web/)
 - [List of Custom Search Engines * _please let me know if you know who created this I want to give you the credits for this._](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?)
 - [Interpol Wanted People - *I have no idea why you should use this as a recruiter.*](http://www.interpol.int/notice/search/wanted)
+
+##### Academic Search Engines
+
+- [Microsoft Academic](https://academic.microsoft.com/#/search?iq=Y%3D2008&q=2008&filters=&from=0&sort=0)
+- [Google Scholar](https://scholar.google.com)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+
+##### Facebook Search
+- [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
+- [StalkFace](https://stalkface.com/en/)
+
 
 WORK IN PROGRESS
 
