@@ -95,6 +95,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/kdfieneakcjfaiglcfcgkidlkmlijjnh)
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
+- [sheet2site](https://www.sheet2site.com/)
 
 
 
@@ -144,10 +145,23 @@ The rest is pretty cool too, but these deserve a special place :)
 
 WORK IN PROGRESS
 
+## 🔎 Search Engines
 
+- [Google](https://www.google.com/)
+  - [Google Scholar](https://scholar.google.com)
+  - [Google Patents](https://patents.google.com/)
+  - [Google Trends](https://trends.google.com/trends/)
+  - [Google Image Search](https://images.google.com/)
+    - [Google Advanced Search Operators Guide](https://docs.google.com/document/u/2/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/edit)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Bing](https://www.bing.com/)
+- [Search Engine Colossus  *_international directory of search engines_](http://searchenginecolossus.com/)
+- [Wayback Machine](http://archive.org/web/)
+- [List of Custom Search Engines * _please let me know if you know who created this I want to give you the credits for this._](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?)
+-
 
 
 ***
 
-Using any of these resources is at your own risk. I am not responsible for your safety /
-compliancy. OKTHXBYE xoxo
+_Using any of these resources is at your own risk. I am not responsible for your safety /
+compliancy. OKTHXBYE xoxo_
