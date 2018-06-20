@@ -38,6 +38,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Recruiting Tools](https://recruitingtools.com/)
 - [Tom Ordonez](https://www.tomordonez.com/)
 - [SourcingMonk](https://www.sourcingmonk.com/)
+- [Guillaume Alexandre](http://www.gates-solutions.com/)
 
 ## 💬 Facebook Groups
 - [SourceCon](https://www.facebook.com/groups/151466298380729/)
