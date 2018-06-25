@@ -67,6 +67,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [The #SocialRecruiting Show](https://www.thesearchologist.com/social-media-recruitment-training/blog/)
 - [RecruiterZone](https://www.crowdcast.io/recruiterzone)
 - [Jim Stroud](https://www.youtube.com/user/jimstroud/videos)
+- [PairedSourcing Twitch Channel](https://www.twitch.tv/pairedsourcing)
 
 ## 📖 Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
@@ -97,7 +98,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/kdfieneakcjfaiglcfcgkidlkmlijjnh)
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
-- [sheet2site](https://www.sheet2site.com/)
+- [Sheet2site](https://www.sheet2site.com/)
+- [Travelscope - worldwide Visa check (thnx for sharing Denis Dinkevich)](https://www.markuslerner.com/travelscope/)
 
 
 
