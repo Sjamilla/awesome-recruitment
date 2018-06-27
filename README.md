@@ -72,7 +72,9 @@ The rest is pretty cool too, but these deserve a special place :)
 ## 📖 Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
 - [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
--
+
+## ❤️ Cool lists created by cool people 
+- [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
 
 
 ## 🛠️ Tools (Chrome Extensions - non recruitment)
@@ -104,11 +106,17 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
+- 
 
 ### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/kdfieneakcjfaiglcfcgkidlkmlijjnh)
-- [Letter & Character count tool](https://www.lettercount.com/)
+- [LetterCount (Character count tool)](https://www.lettercount.com/)
+- [Charactercounttool](https://charactercounttool.com/)
+- [Voyant Tools - reading & analysis tool](http://voyant-tools.org/)
+- [Scribbens free grammar check](https://www.scribens.com/)
+- [Textalyser](http://textalyser.net/)
+- [WordCounter](https://wordcounter.io/)
 
 
 ### 🛫 Relocation, Travel & research
@@ -138,7 +146,6 @@ The rest is pretty cool too, but these deserve a special place :)
 - [HIRETUAL](https://chrome.google.com/webstore/detail/jeablngoapekimaeoeclgcefdcpjhjcg)
 - [Storyful Multisearch](https://chrome.google.com/webstore/detail/hkglibabhninbjmaccpajiakojeacnaf)
 
-
 #### :phone: Contact info
 - [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna)
 - [Contact Out](https://chrome.google.com/webstore/detail/jjdemeiffadmmjhkbbpglgnlgeafomjo)
@@ -147,8 +154,6 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Discoverly for Gmail, LinkedIn, Facebook...](https://chrome.google.com/webstore/detail/dijhcpbkalfgkcebgoncjmfpbamihgaf)
 - [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
 - [Snovio](https://snov.io/)
-
-
 
 #### :squirrel: Scraping
  - [Data Scraper - Easy Web Scraping](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden)
@@ -163,6 +168,14 @@ The rest is pretty cool too, but these deserve a special place :)
  - [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk)
  - [CoderStats link for Github Coders](https://chrome.google.com/webstore/detail/necogepejonacpphmlmcagmbjaogpbng)
  - [Github User Rank](https://chrome.google.com/webstore/detail/oabhkjmpcnkeifhahnlhafajeoofhjak)
+
+#### 🙋 Job Description Tools 
+ - [Textio](https://textio.com/)
+ - [Gender Decoder for Job Ads
+](http://gender-decoder.katmatfield.com/)
+
+#### Other stuff 
+ - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
 
 
 ## 🔎 Search Engines
@@ -193,9 +206,6 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 
-## Job Description Tools 
-- [Textio](https://textio.com/)
-- 
 
 
 WORK IN PROGRESS
