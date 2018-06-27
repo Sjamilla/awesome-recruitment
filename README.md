@@ -113,6 +113,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 ### 🛫 Relocation, Travel & research
 - [Travelscope - worldwide Visa check (thnx for sharing Denis Dinkevich)](https://www.markuslerner.com/travelscope/)
+- 
 
 
 ### 🆒 Other
@@ -122,7 +123,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 
-## 🛠️ Tools (Extensions & Websites)
+## 🛠️ Recruitment Tools (Extensions & Websites)
 
 #### 🔍 Search
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
@@ -188,6 +189,13 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
 - [StalkFace](https://stalkface.com/en/)
 
+
+
+
+
+## Job Description Tools 
+- [Textio](https://textio.com/)
+- 
 
 
 WORK IN PROGRESS
