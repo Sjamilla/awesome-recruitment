@@ -80,35 +80,35 @@ The rest is pretty cool too, but these deserve a special place :)
 ## 🛠️ Tools (Chrome Extensions - non recruitment)
 
 
-### 👩‍💻 Dev Tools  
+#### 👩‍💻 Dev Tools  
 - [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 - [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)
 
-### ⌛ Productivity 
+#### ⌛ Productivity 
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
 - [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
 
-### 🔏 Privacy & Safety 
+#### 🔏 Privacy & Safety 
 - [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
 - [DuckDuckGo Privacy Essentials
 ](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 
-### 📹 Video & Images 
+#### 📹 Video & Images 
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
 
-### 📈 Marketing & Stats 
+#### 📈 Marketing & Stats 
 - [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - 
 
-### 📑 Grammar, Spelling & Words
+#### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/kdfieneakcjfaiglcfcgkidlkmlijjnh)
 - [LetterCount (Character count tool)](https://www.lettercount.com/)
@@ -119,12 +119,12 @@ The rest is pretty cool too, but these deserve a special place :)
 - [WordCounter](https://wordcounter.io/)
 
 
-### 🛫 Relocation, Travel & research
+#### 🛫 Relocation, Travel & research
 - [Travelscope - worldwide Visa check (thnx for sharing Denis Dinkevich)](https://www.markuslerner.com/travelscope/)
 - 
 
 
-### 🆒 Other
+#### 🆒 Other
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
 - [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
 - [Sheet2site](https://www.sheet2site.com/)
