@@ -76,31 +76,49 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 ## 🛠️ Tools (Chrome Extensions - non recruitment)
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
-- [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
-- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
+
+
+### 👩‍💻 Dev Tools  
+- [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)
-- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+### ⌛ Productivity 
+- [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
+- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
-- [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
-- [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
-- [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
+
+### 🔏 Privacy & Safety 
+- [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
 - [DuckDuckGo Privacy Essentials
 ](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
-- [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh
-)
-- [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip)
-- [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
-- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
-- [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
-- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+
+### 📹 Video & Images 
+- [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
+
+### 📈 Marketing & Stats 
+- [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
+- [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
+- [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
+
+### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/kdfieneakcjfaiglcfcgkidlkmlijjnh)
-- [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
-- [Sheet2site](https://www.sheet2site.com/)
+- [Letter & Character count tool](https://www.lettercount.com/)
+
+
+### 🛫 Relocation, Travel & research
 - [Travelscope - worldwide Visa check (thnx for sharing Denis Dinkevich)](https://www.markuslerner.com/travelscope/)
 
+
+### 🆒 Other
+- [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
+- [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
+- [Sheet2site](https://www.sheet2site.com/)
 
 
 
@@ -126,7 +144,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Anymail finder](https://chrome.google.com/webstore/detail/binngoomidldeahceppnjjknalcgplfn)
 - [360social](https://chrome.google.com/webstore/detail/bplilbogidkdmacifmkmciboihbcchom)
 - [Discoverly for Gmail, LinkedIn, Facebook...](https://chrome.google.com/webstore/detail/dijhcpbkalfgkcebgoncjmfpbamihgaf)
--  [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
+- [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
+- [Snovio](https://snov.io/)
 
 
 
@@ -168,6 +187,7 @@ The rest is pretty cool too, but these deserve a special place :)
 ##### Facebook Search
 - [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
 - [StalkFace](https://stalkface.com/en/)
+
 
 
 WORK IN PROGRESS
