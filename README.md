@@ -9,8 +9,10 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 - [Audio](https://github.com/Sjamilla/awesome-recruitment#-audio)
 - [Video](https://github.com/Sjamilla/awesome-recruitment#-video)
 - [Books](https://github.com/Sjamilla/awesome-recruitment#-books)
-- [Extensions](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-tools-chrome-extensions---non-recruitment)
-- [Search Engines](https://github.com/Sjamilla/awesome-recruitment#-search-engines)
+- [Lists](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
+- [Extensions & Tools General](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-tools-chrome-extensions---non-recruitment)
+- [Extensions & Tools Recruitment](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-recruitment-tools-extensions--websites)
+
 
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
@@ -75,6 +77,9 @@ The rest is pretty cool too, but these deserve a special place :)
 
 ## ❤️ Cool lists created by cool people 
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
+- [Dean DaCosta Tools List](http://thesearchauthority.weebly.com/tools.html)
+- [RecruiterHunt](https://recruiterhunt.com/)
+- [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
 
 
 ## 🛠️ Tools (Chrome Extensions - non recruitment)
@@ -84,6 +89,11 @@ The rest is pretty cool too, but these deserve a special place :)
 - [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 - [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)
+- [CSS & XPath checker](https://chrome.google.com/webstore/detail/css-and-xpath-checker/aoinfihhckpkkcpholfhmkeplbhddipe?utm_source=chrome-app-launcher-info-dialog)
+- [Json Pretty Print](http://jsonprettyprint.com/)
+- [Json2XLS](http://www.json-xls.com/json2xls)
+- [JSON to CSV](https://konklone.io/json/)
+- 
 
 #### ⌛ Productivity 
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
@@ -101,6 +111,9 @@ The rest is pretty cool too, but these deserve a special place :)
 
 #### 📹 Video & Images 
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
+- [Annotate - Mac App](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12)
+- [CloudApp](https://www.getcloudapp.com/)
+- 
 
 #### 📈 Marketing & Stats 
 - [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
@@ -117,17 +130,28 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Scribbens free grammar check](https://www.scribens.com/)
 - [Textalyser](http://textalyser.net/)
 - [WordCounter](https://wordcounter.io/)
+- [TextExpander](https://textexpander.com/)
 
 
 #### 🛫 Relocation, Travel & research
 - [Travelscope - worldwide Visa check (thnx for sharing Denis Dinkevich)](https://www.markuslerner.com/travelscope/)
-- 
+- [Numbeo](http://www.numbeo.com/cost-of-living/)
+- [Relocate.me](http://relocate.me/)
+- [Paysa Cost of Living US](https://www.paysa.com/cost-of-living)
+
+#### 📅 Calendar & Meeting Tools
+- [Calendly](https://calendly.com/)
+- [Assistant.to](https://www.assistant.to/)
+- [Boomerang Calendar](http://boomerangcalendar.com/)
+- [Rally *meeting voting tool*](https://rallly.co/)
+- [x.ai * *$*](https://x.ai/)
 
 
 #### 🆒 Other
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
 - [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
 - [Sheet2site](https://www.sheet2site.com/)
+
 
 
 
@@ -176,6 +200,8 @@ The rest is pretty cool too, but these deserve a special place :)
 
 #### Other stuff 
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
+ - [Paysa](https://www.paysa.com/)
+ - [PayScale](http://www.payscale.com/cbpr)
 
 
 ## 🔎 Search Engines
