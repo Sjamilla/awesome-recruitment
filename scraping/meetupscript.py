@@ -1,4 +1,4 @@
-#meetup api scraping from terminal, created by Sjamilla van der Tooren
+#meetup api scraping from terminal, created by Sjamilla
 import requests
 import pprint
 
