@@ -131,6 +131,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Textalyser](http://textalyser.net/)
 - [WordCounter](https://wordcounter.io/)
 - [TextExpander](https://textexpander.com/)
+- [Textalytic](https://app.textalytic.com/)
 
 
 #### 🛫 Relocation, Travel & research
