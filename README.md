@@ -110,7 +110,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 - [Password-alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=nl)
-- [Have I Been Pwned?]https://haveibeenpwned.com/
+- [Have I Been Pwned?](https://haveibeenpwned.com/)
 - [Watch Your Hack](https://watchyourhack.com/)
 
 #### 📹 Video & Images 
