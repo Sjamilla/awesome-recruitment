@@ -135,7 +135,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
 
 #### 📫 Email 
-- [Lemlist - emailcampaigns](https://lemlist.com/)
+- [Lemlist](https://lemlist.com/)
 - [MixMax - all in one](https://mixmax.com/)
 - [Boomerang for Gmail](https://www.boomeranggmail.com/)
 
