@@ -84,7 +84,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
 
 
-## 🛠️ Tools (Chrome Extensions - non recruitment)
+## 🛠️ Tools (Non recruitment)
 
 
 #### 👩‍💻 Dev Tools  
@@ -95,7 +95,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Json Pretty Print](http://jsonprettyprint.com/)
 - [Json2XLS](http://www.json-xls.com/json2xls)
 - [JSON to CSV](https://konklone.io/json/)
-- 
+- [Atom](https://atom.io/)
+- [Sublime](https://www.sublimetext.com)
+- [Online Regex Tester](https://regex101.com/)
 
 #### ⌛ Productivity 
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
@@ -104,6 +106,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
+- [Toggle - Timetracking](https://toggl.com/)
 
 #### 🔏 Privacy & Safety 
 - [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
@@ -119,13 +122,22 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
 - [Annotate - Mac App](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12)
 - [CloudApp](https://www.getcloudapp.com/)
-- 
+- [Vidyard - Video Recorder](www.vidyard.com)
 
 #### 📈 Marketing & Stats 
 - [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
-- 
+- [Social Mention](http://www.socialmention.com/)
+- [Social Animal](https://app.socialanimal.com/#)
+- [EpicBeat](https://epicenter.epictions.com/epicbeat/explore/)
+- [Feedly](https://feedly.com/i/discover)
+- [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
+
+#### 📫 Email 
+- [Lemlist - emailcampaigns](https://lemlist.com/)
+- [MixMax - all in one](https://mixmax.com/)
+- [Boomerang for Gmail](https://www.boomeranggmail.com/)
 
 #### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
@@ -138,6 +150,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [WordCounter](https://wordcounter.io/)
 - [TextExpander](https://textexpander.com/)
 - [Textalytic](https://app.textalytic.com/)
+- [Headline Analyzer by CoSchedule](https://coschedule.com/headline-analyzer)
+- [ Emotional Marketing Value Headline Analyzer](https://www.aminstitute.com/headline/index.htm)
+
 
 
 #### 🛫 Relocation, Travel & research
@@ -185,6 +200,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Discoverly for Gmail, LinkedIn, Facebook...](https://chrome.google.com/webstore/detail/dijhcpbkalfgkcebgoncjmfpbamihgaf)
 - [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
 - [Snovio](https://snov.io/)
+- [Nymeria](https://www.nymeria.io/)
+- [Connectifier - *only with LI recruiter*](https://business.linkedin.com/talent-solutions/recruiter/connectifier)
 
 #### :squirrel: Scraping
  - [Data Scraper - Easy Web Scraping](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden)
