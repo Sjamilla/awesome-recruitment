@@ -111,9 +111,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
 - [Toggle - Timetracking](https://toggl.com/)
-- [The Great Suspender, _Automatically suspends unused tabs to free up system resources
-_](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related)
-- 
+- [The Great Suspender, _Automatically suspends unused tabs to free up system resources_](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related)
+
 
 #### 🔏 Privacy & Safety 
 - [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
