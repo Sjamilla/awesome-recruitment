@@ -76,12 +76,15 @@ The rest is pretty cool too, but these deserve a special place :)
 ## 📖 Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
 - [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
+- [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
 
 ## ❤️ Cool lists created by cool people 
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
 - [Dean DaCosta Tools List](http://thesearchauthority.weebly.com/tools.html)
 - [RecruiterHunt](https://recruiterhunt.com/)
 - [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
+- [Recruitment Blogs 2018 by Susanna Frazier](https://ohsusannamarie.com/2018/07/08/recommended-reading-the-best-recruitment-blogs-of-2018/)
+
 
 
 ## 🛠️ Tools (Non recruitment)
@@ -99,6 +102,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Sublime](https://www.sublimetext.com)
 - [Online Regex Tester](https://regex101.com/)
 
+
 #### ⌛ Productivity 
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
 - [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
@@ -107,6 +111,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
 - [Toggle - Timetracking](https://toggl.com/)
+- [The Great Suspender, _Automatically suspends unused tabs to free up system resources
+_](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related)
+- 
 
 #### 🔏 Privacy & Safety 
 - [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
@@ -138,6 +145,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Lemlist](https://lemlist.com/)
 - [MixMax - all in one](https://mixmax.com/)
 - [Boomerang for Gmail](https://www.boomeranggmail.com/)
+- [mailinator, free temp emailboxes _note: I love this tool for one time signups_](https://www.mailinator.com/)
 
 #### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
@@ -168,6 +176,13 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Rally *meeting voting tool*](https://rallly.co/)
 - [x.ai * *$*](https://x.ai/)
 
+#### 🎨 Images 
+- [Piktochart, _create infographics_](https://piktochart.com/)
+- [Canva, _free graphic-design tool_](https://www.canva.com/)
+- [Pixlr, _free online photo editor_](https://pixlr.com/editor/)
+- [Draw.io, _flowchart & diagram maker_](https://www.draw.io/)
+- [SmartDraw, _not so free after the trial flowchart & diagram maker_](https://www.smartdraw.com/)
+
 
 #### 🆒 Other
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
@@ -182,6 +197,8 @@ The rest is pretty cool too, but these deserve a special place :)
 #### 🔍 Search
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
 - [Open Source Intelligence](https://chrome.google.com/webstore/detail/open-source-intelligence/bclnaepfegjimpinlmgnipebbknlmmbh)
+- [Pulsedive Osint Lookup](https://chrome.google.com/webstore/detail/pulsedive-osint-lookup/gdbemlfgncdmmljmkkcemfedbbfgghcp)
+	- [website](https://pulsedive.com/)
 - [Intelligence Search
 ](https://chrome.google.com/webstore/detail/intelligence-search/dipfggodcibdmflidbceoaanadclgomm)
   - [website](http://www.intel-sw.com/)
@@ -251,7 +268,7 @@ The rest is pretty cool too, but these deserve a special place :)
 ##### Facebook Search
 - [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
 - [StalkFace](https://stalkface.com/en/)
-
+- 
 
 
 
