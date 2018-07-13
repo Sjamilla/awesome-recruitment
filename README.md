@@ -91,9 +91,9 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 #### 👩‍💻 Dev Tools  
-- [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip)
-- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
-- [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap)
+- [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip) - view what runs a website.
+- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) 
+- [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - search engine for Internet-connected devices.
 - [CSS & XPath checker](https://chrome.google.com/webstore/detail/css-and-xpath-checker/aoinfihhckpkkcpholfhmkeplbhddipe?utm_source=chrome-app-launcher-info-dialog)
 - [Json Pretty Print](http://jsonprettyprint.com/)
 - [Json2XLS](http://www.json-xls.com/json2xls)
@@ -104,22 +104,23 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 #### ⌛ Productivity 
-- [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe)
-- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
-- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+- [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe) - get a list of all your extensions and share.
+- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) 
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Google Chrome extensions. 
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter. 
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
-- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi)
-- [Toggle - Timetracking](https://toggl.com/)
-- [The Great Suspender, _Automatically suspends unused tabs to free up system resources_](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related)
+- [Multi Highlighter](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji/related)
+- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save stuff.
+- [Toggle](https://toggl.com/) - Timetracking tool.
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related) -  Automatically suspends unused tabs to free up system resources.
 
 
 #### 🔏 Privacy & Safety 
-- [Dashlane - Password Manager](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
+- [Dashlane](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg) 
 - [DuckDuckGo Privacy Essentials
 ](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
-- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
+- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) 
 - [Password-alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=nl)
 - [Have I Been Pwned?](https://haveibeenpwned.com/)
 - [Watch Your Hack](https://watchyourhack.com/)
