@@ -1,4 +1,4 @@
- # Awesome Recuitment
+ # Awesome Recruitment
 
 This is just a list of recruitment resources I use. I couldn't handle everything being in 10000 different places so I decided to put it here. Just for me, but if you want to use it (or add stuff) feel free to do so :).
 
