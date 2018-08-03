@@ -45,6 +45,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [SourcingMonk](https://www.sourcingmonk.com/)
 - [Guillaume Alexandre](http://www.gates-solutions.com/)
 - [GlossaryTech](https://blog.glossarytech.com/)
+- [WizardSourcer](https://wizardsourcer.com/blog)
 
 ## 💬 Facebook Groups
 - [SourceCon](https://www.facebook.com/groups/151466298380729/)
@@ -77,6 +78,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
 - [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
 - [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
+- [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
 
 ## ❤️ Cool lists created by cool people 
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
