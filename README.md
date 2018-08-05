@@ -80,7 +80,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
 - [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
 
-## ❤️ Cool lists created by cool people 
+## ❤️ Cool lists created by cool people
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
 - [Dean DaCosta Tools List](http://thesearchauthority.weebly.com/tools.html)
 - [RecruiterHunt](https://recruiterhunt.com/)
@@ -94,7 +94,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 #### 👩‍💻 Dev Tools  
 - [WhatRuns](https://chrome.google.com/webstore/detail/cmkdbmfndkfgebldhnkbfhlneefdaaip) - view what runs a website.
-- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) 
+- [JSONView](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc)
 - [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - search engine for Internet-connected devices.
 - [CSS & XPath checker](https://chrome.google.com/webstore/detail/css-and-xpath-checker/aoinfihhckpkkcpholfhmkeplbhddipe?utm_source=chrome-app-launcher-info-dialog)
 - [Json Pretty Print](http://jsonprettyprint.com/)
@@ -103,38 +103,46 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Atom](https://atom.io/)
 - [Sublime](https://www.sublimetext.com)
 - [Online Regex Tester](https://regex101.com/)
-- [Versionista * _track changes on a webpage_](https://versionista.com/)
+- [Versionista ](https://versionista.com/)- Track changes on a webpage
+- [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+-  [Easy URL Params
+](https://chrome.google.com/webstore/detail/easy-url-params/jhhjlajfdkofbnhbcjcddngfehfihfln)
+- [Restlet Client - REST API Testing](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
 
-
-#### ⌛ Productivity 
+#### ⌛ Productivity
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe) - get a list of all your extensions and share.
-- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) 
-- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Google Chrome extensions. 
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter. 
+- [Forest: stay focused, be present](https://chrome.google.com/webstore/detail/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Google Chrome extensions.
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
 - [Highlight This:](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj)
 - [Multi Highlighter](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji/related)
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) - Save stuff.
-- [Toggle](https://toggl.com/) - Timetracking tool.
+- [Toggle](https://toggl.com/) - Time tracking tool.
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related) -  Automatically suspends unused tabs to free up system resources.
+- [Data Saver](https://chrome.google.com/webstore/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=en) - Reduces data usage by using Google servers to optimize pages you visit.
+- [Multi-links](https://chrome.google.com/webstore/detail/multi-links/gflgnmgilmokfhbckilljalhemjjeldl?hl=en) - Open multiple links at once.
+- [Tabagotchi by Breather](https://chrome.google.com/webstore/detail/tabagotchi-by-breather/ojahbhfflnbaiddhnkgeccgopmedjjen?hl=en) - Get rid of unnecessary distractions and increase your productivity with Tabagotchi.
+- [My Time Zone](https://chrome.google.com/webstore/detail/my-time-zone-automatic-ti/fdmjemdmpmohggbjhmbeoipmheemmcpm) - Automatic timezone conversion for simple scheduling.
 
 
-#### 🔏 Privacy & Safety 
-- [Dashlane](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg) 
+
+#### 🔏 Privacy & Safety
+- [Dashlane](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
 - [DuckDuckGo Privacy Essentials
 ](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
-- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
-- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) 
+- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 - [Password-alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=nl)
 - [Have I Been Pwned?](https://haveibeenpwned.com/)
 - [Watch Your Hack](https://watchyourhack.com/)
 
-#### 📹 Video & Images 
+#### 📹 Video & Images
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
 - [Annotate - Mac App](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12)
 - [CloudApp](https://www.getcloudapp.com/)
 - [Vidyard - Video Recorder](www.vidyard.com)
 
-#### 📈 Marketing & Stats 
+#### 📈 Marketing & Stats
 - [Similar Sites - Discover Related Websites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn)
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
@@ -144,7 +152,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Feedly](https://feedly.com/i/discover)
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
 
-#### 📫 Email 
+
+#### 📫 Email
 - [Lemlist](https://lemlist.com/)
 - [MixMax - all in one](https://mixmax.com/)
 - [Boomerang for Gmail](https://www.boomeranggmail.com/)
@@ -166,7 +175,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 
-#### 🛫 Relocation, Travel & research
+#### 🛫 Relocation, Travel & Research
 - [Travelscope - worldwide Visa check (thnx for sharing Denis Dinkevich)](https://www.markuslerner.com/travelscope/)
 - [Numbeo](http://www.numbeo.com/cost-of-living/)
 - [Relocate.me](http://relocate.me/)
@@ -179,7 +188,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Rally *meeting voting tool*](https://rallly.co/)
 - [x.ai * *$*](https://x.ai/)
 
-#### 🎨 Images 
+#### 🎨 Images
 - [Piktochart, _create infographics_](https://piktochart.com/)
 - [Canva, _free graphic-design tool_](https://www.canva.com/)
 - [Pixlr, _free online photo editor_](https://pixlr.com/editor/)
@@ -191,7 +200,6 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
 - [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
 - [Sheet2site](https://www.sheet2site.com/)
-
 
 
 
@@ -229,6 +237,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Recipe Creator](https://chrome.google.com/webstore/detail/icadidhenmiokjlmpdgjikdoknhfgkhg)
  - [Phantombuster](https://phantombuster.com/)
  - [Public-APIs list ](https://github.com/toddmotto/public-apis)
+ - [Postman Interceptor, extention](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=en)
 
 #### :octocat: Github Tools
  - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
@@ -237,13 +246,13 @@ The rest is pretty cool too, but these deserve a special place :)
  - [CoderStats link for Github Coders](https://chrome.google.com/webstore/detail/necogepejonacpphmlmcagmbjaogpbng)
  - [Github User Rank](https://chrome.google.com/webstore/detail/oabhkjmpcnkeifhahnlhafajeoofhjak)
 
-#### 🙋 Job Description Tools 
+#### 🙋 Job Description Tools
  - [Textio](https://textio.com/)
  - [Gender Decoder for Job Ads
 ](http://gender-decoder.katmatfield.com/)
 - [Joblint](http://joblint.org/)
 
-#### Other stuff 
+#### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
  - [Paysa](https://www.paysa.com/)
  - [PayScale](http://www.payscale.com/cbpr)
@@ -258,21 +267,23 @@ The rest is pretty cool too, but these deserve a special place :)
     - [Google Advanced Search Operators Guide](https://docs.google.com/document/u/2/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/edit)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Bing](https://www.bing.com/)
-- [Search Engine Colossus  *_international directory of search engines_](http://searchenginecolossus.com/)
+- [Search Engine Colossus ](http://searchenginecolossus.com/) - International directory of search engines
 - [Wayback Machine](http://archive.org/web/)
-- [List of Custom Search Engines * _please let me know if you know who created this I want to give you the credits for this._](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?)
-- [Interpol Wanted People - *I have no idea why you should use this as a recruiter.*](http://www.interpol.int/notice/search/wanted)
+- [List of Custom Search Engines](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?) _*please let me know if you know who created this I want to give you the credits for this._
+- [Interpol Wanted People](http://www.interpol.int/notice/search/wanted) -  I have no idea why you should use this as a recruiter.
+- [World Bank Open Data](https://data.worldbank.org/) - Free and open access to global development data.
+
 
 ##### Academic Search Engines
 
 - [Microsoft Academic](https://academic.microsoft.com/#/search?iq=Y%3D2008&q=2008&filters=&from=0&sort=0)
 - [Google Scholar](https://scholar.google.com)
 - [Semantic Scholar](https://www.semanticscholar.org/)
+- [Research Gate](https://www.researchgate.net/)
 
 ##### Facebook Search
 - [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
 - [StalkFace](https://stalkface.com/en/)
-- 
 
 
 
