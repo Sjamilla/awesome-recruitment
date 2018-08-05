@@ -11,7 +11,7 @@ while True:
     print 'Creating data frame'
     df = pd.DataFrame(data["results"], columns = ["name", "city", "link", "joined"])
     print 'writing to output.csv'
-    df.to_csv('output.csv', encoding='utf-8-sig')
+    df.to_csv('output.csv', encoding='utf-8-sig', mode = 'a')
 
     meta = data["meta"]
     if "next" in meta and meta["next"]:
