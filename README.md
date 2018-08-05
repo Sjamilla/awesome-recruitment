@@ -101,6 +101,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Atom](https://atom.io/)
 - [Sublime](https://www.sublimetext.com)
 - [Online Regex Tester](https://regex101.com/)
+- [Versionista * _track changes on a webpage_](https://versionista.com/)
 
 
 #### ⌛ Productivity 
@@ -237,6 +238,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Textio](https://textio.com/)
  - [Gender Decoder for Job Ads
 ](http://gender-decoder.katmatfield.com/)
+- [Joblint](http://joblint.org/)
 
 #### Other stuff 
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
