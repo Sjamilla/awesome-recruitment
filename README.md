@@ -238,7 +238,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Phantombuster](https://phantombuster.com/)
  - [Public-APIs list ](https://github.com/toddmotto/public-apis)
  - [Postman Interceptor, extention](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=en)
- - [Scrapy] (https://scrapy.org/)
+ - [Scrapy](https://scrapy.org/)
 
 #### :octocat: Github Tools
  - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
