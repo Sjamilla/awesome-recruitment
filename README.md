@@ -290,6 +290,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [ISDB.PW](https://isdb.pw/) - Username search for saved stories
 - [Webstagram](http://web.stagram.com/) - Search for tags & users
 
+##### Other Social Media Search 
+- [Snapchat live Map](https://map.snapchat.com/) - Snapchat Live Stories Map 
+
 WORK IN PROGRESS
 
 ***
