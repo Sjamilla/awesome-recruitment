@@ -84,7 +84,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
 - [Dean DaCosta Tools List](http://thesearchauthority.weebly.com/tools.html)
 - [RecruiterHunt](https://recruiterhunt.com/)
-- [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
+- [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) 
 - [Recruitment Blogs 2018 by Susanna Frazier](https://ohsusannamarie.com/2018/07/08/recommended-reading-the-best-recruitment-blogs-of-2018/)
 
 
@@ -273,6 +273,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [List of Custom Search Engines](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?) _*please let me know if you know who created this I want to give you the credits for this._
 - [Interpol Wanted People](http://www.interpol.int/notice/search/wanted) -  I have no idea why you should use this as a recruiter.
 - [World Bank Open Data](https://data.worldbank.org/) - Free and open access to global development data.
+- [Open Corporates](https://opencorporates.com/) - The largest open database of companies in the world
 
 
 ##### Academic Search Engines
