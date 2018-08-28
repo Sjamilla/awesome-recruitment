@@ -286,10 +286,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
 - [StalkFace](https://stalkface.com/en/)
 
-
-
-
-
+##### Instagram Search 
+- [ISDB.PW](https://isdb.pw/) - Username search for saved stories
+- [Webstagram](http://web.stagram.com/) - Search for tags & users
 
 WORK IN PROGRESS
 
