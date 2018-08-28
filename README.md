@@ -157,7 +157,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Lemlist](https://lemlist.com/)
 - [MixMax - all in one](https://mixmax.com/)
 - [Boomerang for Gmail](https://www.boomeranggmail.com/)
-- [mailinator, free temp emailboxes _note: I love this tool for one time signups_](https://www.mailinator.com/)
+- [mailinator, free temp emailboxes](https://www.mailinator.com/) _note: I love this tool for one time signups_
 
 #### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
@@ -168,7 +168,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Scribbens free grammar check](https://www.scribens.com/)
 - [Textalyser](http://textalyser.net/)
 - [WordCounter](https://wordcounter.io/)
-- [TextExpander](https://textexpander.com/)
+- [TextExpander](https://textexpander.com/) 
 - [Textalytic](https://app.textalytic.com/)
 - [Headline Analyzer by CoSchedule](https://coschedule.com/headline-analyzer)
 - [ Emotional Marketing Value Headline Analyzer](https://www.aminstitute.com/headline/index.htm)
@@ -186,14 +186,14 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Assistant.to](https://www.assistant.to/)
 - [Boomerang Calendar](http://boomerangcalendar.com/)
 - [Rally *meeting voting tool*](https://rallly.co/)
-- [x.ai * *$*](https://x.ai/)
+- [x.ai](https://x.ai/) 💰
 
 #### 🎨 Images
 - [Piktochart, _create infographics_](https://piktochart.com/)
 - [Canva, _free graphic-design tool_](https://www.canva.com/)
 - [Pixlr, _free online photo editor_](https://pixlr.com/editor/)
 - [Draw.io, _flowchart & diagram maker_](https://www.draw.io/)
-- [SmartDraw, _not so free after the trial flowchart & diagram maker_](https://www.smartdraw.com/)
+- [SmartDraw - _not so free after the trial flowchart & diagram maker_](https://www.smartdraw.com/) 💰
 
 
 #### 🆒 Other
@@ -221,7 +221,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Storyful Multisearch](https://chrome.google.com/webstore/detail/hkglibabhninbjmaccpajiakojeacnaf)
 
 #### :phone: Contact info
-- [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna)
+- [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna) 
 - [Contact Out](https://chrome.google.com/webstore/detail/jjdemeiffadmmjhkbbpglgnlgeafomjo)
 - [Anymail finder](https://chrome.google.com/webstore/detail/binngoomidldeahceppnjjknalcgplfn)
 - [360social](https://chrome.google.com/webstore/detail/bplilbogidkdmacifmkmciboihbcchom)
@@ -229,13 +229,13 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
 - [Snovio](https://snov.io/)
 - [Nymeria](https://www.nymeria.io/)
-- [Connectifier - *only with LI recruiter*](https://business.linkedin.com/talent-solutions/recruiter/connectifier)
+- [Connectifier - *only with LI recruiter*](https://business.linkedin.com/talent-solutions/recruiter/connectifier) 💰
 
 #### :squirrel: Scraping
  - [Data Scraper - Easy Web Scraping](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden)
  - [Instant Data Scraper](https://chrome.google.com/webstore/detail/ofaokhiedipichpaobibbnahnkdoiiah)
  - [Recipe Creator](https://chrome.google.com/webstore/detail/icadidhenmiokjlmpdgjikdoknhfgkhg)
- - [Phantombuster](https://phantombuster.com/)
+ - [Phantombuster](https://phantombuster.com/) 💰
  - [Public-APIs list ](https://github.com/toddmotto/public-apis)
  - [Postman Interceptor, extention](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=en)
  - [Scrapy](https://scrapy.org/)
@@ -248,7 +248,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Github User Rank](https://chrome.google.com/webstore/detail/oabhkjmpcnkeifhahnlhafajeoofhjak)
 
 #### 🙋 Job Description Tools
- - [Textio](https://textio.com/)
+ - [Textio](https://textio.com/) 💰
  - [Gender Decoder for Job Ads
 ](http://gender-decoder.katmatfield.com/)
 - [Joblint](http://joblint.org/)
@@ -290,8 +290,14 @@ The rest is pretty cool too, but these deserve a special place :)
 - [ISDB.PW](https://isdb.pw/) - Username search for saved stories
 - [Webstagram](http://web.stagram.com/) - Search for tags & users
 
+##### Twitter Search 
+- [#onemilliontweetmap](onemilliontweetmap.com) - Maps tweets per location 
+- [quarter tweets](http://qtrtweets.com/twitter/) - Twitter location based search
+- [Twlets Chrome Extention](https://chrome.google.com/webstore/detail/twlets-twitter-to-excel/glmadnnfibhnhgboophnodnhbjdogiec) - Get anyone's tweets, followers, likes, videos, and more into Excel 💰
+
 ##### Other Social Media Search 
 - [Snapchat live Map](https://map.snapchat.com/) - Snapchat Live Stories Map 
+- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html)
 
 WORK IN PROGRESS
 
