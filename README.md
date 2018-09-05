@@ -180,6 +180,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Numbeo](http://www.numbeo.com/cost-of-living/)
 - [Relocate.me](http://relocate.me/)
 - [Paysa Cost of Living US](https://www.paysa.com/cost-of-living)
+- [TheTax](https://thetax.nl/) - 30% ruling Dutch Income Tax Calculator
 
 #### 📅 Calendar & Meeting Tools
 - [Calendly](https://calendly.com/)
@@ -265,7 +266,7 @@ The rest is pretty cool too, but these deserve a special place :)
   - [Google Patents](https://patents.google.com/)
   - [Google Trends](https://trends.google.com/trends/)
   - [Google Image Search](https://images.google.com/)
-    - [Google Advanced Search Operators Guide](https://docs.google.com/document/u/2/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/edit)
+   - [Google Advanced Search Operators Guide (https://docs.google.com/document/u/2/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs/edit)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Bing](https://www.bing.com/)
 - [Search Engine Colossus ](http://searchenginecolossus.com/) - International directory of search engines
