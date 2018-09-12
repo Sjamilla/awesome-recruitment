@@ -283,6 +283,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Google Scholar](https://scholar.google.com)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [Research Gate](https://www.researchgate.net/)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 ##### Facebook Search
 - [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
