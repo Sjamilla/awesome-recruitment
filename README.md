@@ -220,6 +220,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [SourceHub](https://chrome.google.com/webstore/detail/enaamgjepainkdajgmnhbjeafocplknl)
 - [HIRETUAL](https://chrome.google.com/webstore/detail/jeablngoapekimaeoeclgcefdcpjhjcg)
 - [Storyful Multisearch](https://chrome.google.com/webstore/detail/hkglibabhninbjmaccpajiakojeacnaf)
+- [Onstrat OSINT](http://onstrat.com/osint/) - by Randolph Hock, Ph.D. 
 
 #### :phone: Contact info
 - [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna) 
