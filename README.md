@@ -154,6 +154,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [EpicBeat](https://epicenter.epictions.com/epicbeat/explore/)
 - [Feedly](https://feedly.com/i/discover)
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
+- [Ahrefs](https://ahrefs.com/) 💰 Ahrefs is a toolset for SEO & marketing running on Big Data.
 
 
 #### 📫 Email
@@ -162,6 +163,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Boomerang for Gmail](https://www.boomeranggmail.com/) Scheduled sending and email reminders
 - [mailinator, free temp emailboxes](https://www.mailinator.com/) _note: I love this tool for one time signups_
 - [Snov.io](https://snov.io/) With Snovio you can find emails, verify them and run your email campaigns
+- [TestSubject](https://zurb.com/playground/testsubject) Test how your email subject lines appear on mobile devices
+
+
 
 #### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
@@ -178,6 +182,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Emotional Marketing Value Headline Analyzer](https://www.aminstitute.com/headline/index.htm)
 - [IBM Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/)
 - [Email Subjectline tester](https://sendcheckit.com/email-subject-line-tester)
+- [Subjectline rater](http://subjectline.com/)
 
 
 #### 🛫 Relocation, Travel & Research
@@ -264,6 +269,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Gender Decoder for Job Ads
 ](http://gender-decoder.katmatfield.com/)
 - [Joblint](http://joblint.org/)
+- [Jobpage Grader](https://jobpagegrader.com/)
 
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
@@ -309,6 +315,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [#onemilliontweetmap](onemilliontweetmap.com) - Maps tweets per location 
 - [quarter tweets](http://qtrtweets.com/twitter/) - Twitter location based search
 - [Twlets Chrome Extention](https://chrome.google.com/webstore/detail/twlets-twitter-to-excel/glmadnnfibhnhgboophnodnhbjdogiec) - Get anyone's tweets, followers, likes, videos, and more into Excel 💰
+
+##### Keyword Search 
+- [Answer The Public](https://answerthepublic.com/)
 
 ##### Other Social Media Search 
 - [Snapchat live Map](https://map.snapchat.com/) - Snapchat Live Stories Map 
