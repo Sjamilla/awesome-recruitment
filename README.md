@@ -154,16 +154,16 @@ The rest is pretty cool too, but these deserve a special place :)
 - [EpicBeat](https://epicenter.epictions.com/epicbeat/explore/)
 - [Feedly](https://feedly.com/i/discover)
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
-- [Ahrefs](https://ahrefs.com/) 💰 Ahrefs is a toolset for SEO & marketing running on Big Data.
+- [Ahrefs](https://ahrefs.com/) - 💰 Ahrefs is a toolset for SEO & marketing running on Big Data.
 
 
 #### 📫 Email
 - [Lemlist](https://lemlist.com/) Conversational Email Outreach Platform
 - [MixMax - all in one](https://mixmax.com/) My pesonal favourite tool
 - [Boomerang for Gmail](https://www.boomeranggmail.com/) Scheduled sending and email reminders
-- [mailinator, free temp emailboxes](https://www.mailinator.com/) _note: I love this tool for one time signups_
-- [Snov.io](https://snov.io/) With Snovio you can find emails, verify them and run your email campaigns
-- [TestSubject](https://zurb.com/playground/testsubject) Test how your email subject lines appear on mobile devices
+- [mailinator, free temp emailboxes](https://www.mailinator.com/) _- note: I love this tool for one time signups_
+- [Snov.io](https://snov.io/) - With Snovio you can find emails, verify them and run your email campaigns
+- [TestSubject](https://zurb.com/playground/testsubject) - Test how your email subject lines appear on mobile devices
 
 
 
@@ -197,17 +197,17 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Assistant.to](https://www.assistant.to/)
 - [Boomerang Calendar](http://boomerangcalendar.com/)
 - [Rally *meeting voting tool*](https://rallly.co/)
-- [x.ai](https://x.ai/) 💰
+- [x.ai](https://x.ai/) - 💰
 
 #### 🎨 Images
 - [Piktochart, _create infographics_](https://piktochart.com/)
 - [Canva, _free graphic-design tool_](https://www.canva.com/)
 - [Pixlr, _free online photo editor_](https://pixlr.com/editor/)
 - [Draw.io, _flowchart & diagram maker_](https://www.draw.io/)
-- [SmartDraw - _not so free after the trial flowchart & diagram maker_](https://www.smartdraw.com/) 💰
-- [Unsplash](https://unsplash.com/) Free images
-- [Pexels](https://www.pexels.com/) Free stock photo's
-- [Flaticon](https://www.flaticon.com/) Free vector icons
+- [SmartDraw - _not so free after the trial flowchart & diagram maker_](https://www.smartdraw.com/) - 💰
+- [Unsplash](https://unsplash.com/) - Free images
+- [Pexels](https://www.pexels.com/) - Free stock photo's
+- [Flaticon](https://www.flaticon.com/) - Free vector icons
 
 
 
@@ -215,8 +215,6 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
 - [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
 - [Sheet2site](https://www.sheet2site.com/)
-- []()
-
 
 
 ## 🛠️ Recruitment Tools (Extensions & Websites)
@@ -275,7 +273,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
  - [Paysa](https://www.paysa.com/)
  - [PayScale](http://www.payscale.com/cbpr)
- - [CB Insights](https://www.cbinsights.com/) company research 
+ - [CB Insights](https://www.cbinsights.com/) -  company research 
 
 
 ## 🔎 Search Engines
