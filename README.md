@@ -157,10 +157,11 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 #### 📫 Email
-- [Lemlist](https://lemlist.com/)
-- [MixMax - all in one](https://mixmax.com/)
-- [Boomerang for Gmail](https://www.boomeranggmail.com/)
+- [Lemlist](https://lemlist.com/) Conversational Email Outreach Platform
+- [MixMax - all in one](https://mixmax.com/) My pesonal favourite tool
+- [Boomerang for Gmail](https://www.boomeranggmail.com/) Scheduled sending and email reminders
 - [mailinator, free temp emailboxes](https://www.mailinator.com/) _note: I love this tool for one time signups_
+- [Snov.io](https://snov.io/) With Snovio you can find emails, verify them and run your email campaigns
 
 #### 📑 Grammar, Spelling & Words
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
@@ -174,8 +175,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [TextExpander](https://textexpander.com/) 
 - [Textalytic](https://app.textalytic.com/)
 - [Headline Analyzer by CoSchedule](https://coschedule.com/headline-analyzer)
-- [ Emotional Marketing Value Headline Analyzer](https://www.aminstitute.com/headline/index.htm)
-
+- [Emotional Marketing Value Headline Analyzer](https://www.aminstitute.com/headline/index.htm)
+- [IBM Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/)
+- [Email Subjectline tester](https://sendcheckit.com/email-subject-line-tester)
 
 
 #### 🛫 Relocation, Travel & Research
@@ -198,12 +200,16 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Pixlr, _free online photo editor_](https://pixlr.com/editor/)
 - [Draw.io, _flowchart & diagram maker_](https://www.draw.io/)
 - [SmartDraw - _not so free after the trial flowchart & diagram maker_](https://www.smartdraw.com/) 💰
+- [Unsplash](https://unsplash.com/) Free images
+- [Pexels](https://www.pexels.com/) Free stock photo's
+
 
 
 #### 🆒 Other
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
 - [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
 - [Sheet2site](https://www.sheet2site.com/)
+- []()
 
 
 
@@ -262,6 +268,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
  - [Paysa](https://www.paysa.com/)
  - [PayScale](http://www.payscale.com/cbpr)
+ - [CB Insights](https://www.cbinsights.com/) company research 
 
 
 ## 🔎 Search Engines
