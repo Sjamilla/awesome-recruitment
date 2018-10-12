@@ -202,6 +202,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [SmartDraw - _not so free after the trial flowchart & diagram maker_](https://www.smartdraw.com/) 💰
 - [Unsplash](https://unsplash.com/) Free images
 - [Pexels](https://www.pexels.com/) Free stock photo's
+- [Flaticon](https://www.flaticon.com/) Free vector icons
 
 
 
