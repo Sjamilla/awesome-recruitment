@@ -245,6 +245,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Snovio](https://snov.io/)
 - [Nymeria](https://www.nymeria.io/)
 - [Connectifier - *only with LI recruiter*](https://business.linkedin.com/talent-solutions/recruiter/connectifier) 💰
+- [LinkedIn Sales email to profile tool](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) - replace the last part of the url with any email to see if there is a LinkedIn profile connected to it
 
 #### :squirrel: Scraping
  - [Data Scraper - Easy Web Scraping](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden)
@@ -295,7 +296,6 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 ##### Academic Search Engines
-
 - [Microsoft Academic](https://academic.microsoft.com/#/search?iq=Y%3D2008&q=2008&filters=&from=0&sort=0)
 - [Google Scholar](https://scholar.google.com)
 - [Semantic Scholar](https://www.semanticscholar.org/)
