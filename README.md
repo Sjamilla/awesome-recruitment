@@ -183,6 +183,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [IBM Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/)
 - [Email Subjectline tester](https://sendcheckit.com/email-subject-line-tester)
 - [Subjectline rater](http://subjectline.com/)
+- [LinkStyle Docs Add-on](https://chrome.google.com/webstore/detail/link-style/llkdachfmajhffehofbjmkdbfjhkjkpb?hl=en-GB) Because you can't edit the color for links by default :|
 
 
 #### 🛫 Relocation, Travel & Research
