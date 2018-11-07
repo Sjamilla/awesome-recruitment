@@ -209,6 +209,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Unsplash](https://unsplash.com/) - Free images
 - [Pexels](https://www.pexels.com/) - Free stock photo's
 - [Flaticon](https://www.flaticon.com/) - Free vector icons
+- [Prezi](https://prezi.com/) - Presentation software - 💰 _(starting at €7/mo)_
 
 
 
