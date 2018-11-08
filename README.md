@@ -37,7 +37,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [SocialTalent Blog](https://www.socialtalent.com/blog)
 - [AmazingHiring Blog](https://amazinghiring.com/blog/)
 - [Beamery Blog](https://blog.beamery.com/)
-- [Tris Revill, yup you get your own spot here dude 🖖](https://trisrevill.com/)
+- [Tris Revill](https://trisrevill.com/)
 - [Recruiting Brainfood (weekly newsletter by Hung Lee)](http://www.recruitingbrainfood.com/)
 - [Balazs Paroczay](https://thebalazs.com/)
 - [BooleanStrings](http://booleanstrings.com/)
@@ -78,6 +78,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 ## 📖 Books
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
+- [Full Stack Recruiter: New Secrets Revealed - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Secrets-Revealed/dp/8027048184/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1541714235&sr=8-2)
 - [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
 - [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
 - [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
@@ -155,6 +156,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Feedly](https://feedly.com/i/discover)
 - [Google Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
 - [Ahrefs](https://ahrefs.com/) - 💰 Ahrefs is a toolset for SEO & marketing running on Big Data.
+- [E-commerce resources list by Magenticians](https://magenticians.com/ecommerce-hub/) - cool list 
+- [Linkminer](https://app.linkminer.com/)
+- [Logopony](https://www.logopony.com/) - create a logo 💰
 
 
 #### 📫 Email
@@ -318,9 +322,12 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Twlets Chrome Extention](https://chrome.google.com/webstore/detail/twlets-twitter-to-excel/glmadnnfibhnhgboophnodnhbjdogiec) - Get anyone's tweets, followers, likes, videos, and more into Excel 💰
 - [TwiNL](https://twinl.surfsara.nl) - Search in tweets.
 - [TwiMap](https://twimap.com/) - search for tweets in a certain location
+- [Followerwonk](https://followerwonk.com/)
 
 ##### Keyword Search 
 - [Answer The Public](https://answerthepublic.com/)
+- [Keyword finder](https://app.kwfinder.com/)
+- [Keyword shitter](https://keywordshitter.com/) 
 
 ##### Other Social Media Search 
 - [Snapchat live Map](https://map.snapchat.com/) - Snapchat Live Stories Map 
