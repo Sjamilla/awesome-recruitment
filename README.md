@@ -80,6 +80,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Full Stack Recruiter - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Modern-Recruiters/dp/1976130735)
 - [Full Stack Recruiter: New Secrets Revealed - Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Secrets-Revealed/dp/8027048184/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1541714235&sr=8-2)
 - [300 Best Boolean Strings - Irina Shamaeva](https://booleanbook.com/)
+- [Sourcing Hacks - Irina Shamaeva & David Galley](https://sourcingcertification.com/sourcinghacksbook/) 
 - [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
 - [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
 
