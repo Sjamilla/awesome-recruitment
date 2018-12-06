@@ -284,7 +284,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Paysa](https://www.paysa.com/)
  - [PayScale](http://www.payscale.com/cbpr)
  - [CB Insights](https://www.cbinsights.com/) -  company research 
-
+ - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page lots of resources listed
 
 ## 🔎 Search Engines
 
