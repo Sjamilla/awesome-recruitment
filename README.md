@@ -223,6 +223,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Google When?](https://chrome.google.com/webstore/detail/google-when/dgafcidlgmbcehokgdeghmfnbpbfhihh)
 - [Product Hunt](https://chrome.google.com/webstore/detail/product-hunt/likjafohlgffamccflcidmedfongmkee)
 - [Sheet2site](https://www.sheet2site.com/)
+- [List with Slack communities (tech)](https://hundred5.com/blog/sourcing-from-slack)
 
 
 ## 🛠️ Recruitment Tools (Extensions & Websites)
