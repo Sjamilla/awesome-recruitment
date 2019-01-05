@@ -114,6 +114,7 @@ The rest is pretty cool too, but these deserve a special place :)
 ](https://chrome.google.com/webstore/detail/easy-url-params/jhhjlajfdkofbnhbcjcddngfehfihfln)
 - [Restlet Client - REST API Testing](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
 - [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj) 
+- [List with Public API's](https://public-apis.xyz)
 
 #### ⌛ Productivity
 - [Share Extensions](https://chrome.google.com/webstore/detail/chdafcbnfkfenoeejpaeenpdamhmalhe) - get a list of all your extensions and share.
