@@ -22,6 +22,7 @@ Note: I don't find all this stuff myself, I put it here after I find it on Produ
 The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
 - [IntelTechniques](https://inteltechniques.com/menu.html)
+- [Amazing Hiring](http://bit.ly/2YSa31u)
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [Pipl API - _*Demo*_](https://pipl.com/api/demo)
 - [Giphy](https://giphy.com/)
