@@ -175,6 +175,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [mailinator, free temp emailboxes](https://www.mailinator.com/) _- note: I love this tool for one time signups_
 - [Snov.io](https://snov.io/) - With Snovio you can find emails, verify them and run your email campaigns
 - [TestSubject](https://zurb.com/playground/testsubject) - Test how your email subject lines appear on mobile devices
+- [Trinsly](https://trinsly.com/) - Personalized Email Automation for recruiters 💰
 
 
 #### 📑 Grammar, Spelling & Words
