@@ -92,7 +92,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [RecruiterHunt](https://recruiterhunt.com/)
 - [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) 
 - [Recruitment Blogs 2018 by Susanna Frazier](https://ohsusannamarie.com/2018/07/08/recommended-reading-the-best-recruitment-blogs-of-2018/)
-- [OSINT Stash by Denis Dinkevich 🔎](http://workinukraine.space/)
+- [OSINT Stash by Denis Dinkevich 🔎](https://osint.best/)
 
 
 
