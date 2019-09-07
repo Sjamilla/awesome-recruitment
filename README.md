@@ -93,10 +93,14 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Bellingcat's Digital Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) 
 - [Recruitment Blogs 2018 by Susanna Frazier](https://ohsusannamarie.com/2018/07/08/recommended-reading-the-best-recruitment-blogs-of-2018/)
 - [OSINT Stash by Denis Dinkevich 🔎](https://osint.best/)
+- [Big List of Places to Post Jobs (Global)](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/) - by Hung Lee 
+- [Big list of Recruitment events 2019](https://www.recruitingbrainfood.com/list-of-events-2019/) - by Hung Lee
+- [Big list of Recruiting / HR podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/) - by Hung Lee
+- [Big list of Online Recruiting Communities) (https://www.recruitingbrainfood.com/big-list-of-online-recruiter-communities/) - by Hung Lee
 
 
 
-## 🛠️ Tools (Non recruitment)
+## 🛠️ Tools (Not recruitment specific)
 
 
 #### 👩‍💻 Dev Tools  
