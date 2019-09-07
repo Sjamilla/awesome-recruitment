@@ -10,7 +10,8 @@ Can you help? **yes!** This is open source and I don't have time to update this 
 
 #### See this? 
 
-💰 = no free or freemium version. 
+💰 = no free or freemium version.
+
 ❤️ = apps that I personaly use A LOT and consider my favourites. 
 
 ### Overview
