@@ -1,10 +1,11 @@
-# Job Boards 
+# Communities
 
-This is a list of job boards I have found on the internet and been putting in my bookmark lists for the past couple of years. Some I use, some I have never used. 
-
-
+This is a list of communities I have found and used for sourcing. There are many more out there - and I encourage you to find them yourself. This is mainly for my own use. 
 
 WORK IN PROGRESS
+
+
+
 
 ***
 
