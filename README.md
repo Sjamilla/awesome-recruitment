@@ -147,9 +147,10 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Bulk URL Opener](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm?hl=en) - Bulk URL Opener Extension just lets you open multiple URLs at once (in new tabs or windows). 
 - [Text Blaze](https://blaze.today/) - Speed up common typing tasks with templates. 
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - Personal dashboard designed to eliminate distraction. 
-
-
-
+- [LinkClump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en) - Lets you open, copy or bookmark multiple links at the same time.
+- [Read Later](https://chrome.google.com/webstore/category/themes?hl=en) - Store links to read later.
+- [Scroll it!](https://chrome.google.com/webstore/detail/scroll-it/nlndoolndemidhlomaokpfbicfnjeeed?hl=en) - Automatic scrolling websites.
+- [AutoScroll](https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en) - Customizable autoscroll.
 
 
 
@@ -268,6 +269,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [HIRETUAL](https://chrome.google.com/webstore/detail/jeablngoapekimaeoeclgcefdcpjhjcg)
 - [Storyful Multisearch](https://chrome.google.com/webstore/detail/hkglibabhninbjmaccpajiakojeacnaf)
 - [Onstrat OSINT](http://onstrat.com/osint/) - by Randolph Hock, Ph.D. 
+- [ZAPinfo](https://www.zapinfo.io/)
 
 #### :phone: Contact info
 - [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna) 
