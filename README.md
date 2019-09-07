@@ -4,7 +4,9 @@ This is just a list of recruitment resources I use. I couldn't handle everything
 
 This is a work in progress, and probably will be for the upcoming 100 years 🤷.
 
-Note: I don't find all this stuff myself, I put it here after I find it on Product Hunt, hear about them from amazing people in the community and at conferences.
+*Note: I don't find all this stuff myself, I put it here after I find it on Product Hunt, hear about them from amazing people in the recruiting / sourcing community and at conferences.*
+
+Can you help? **yes!** This is open source and I don't have time to update this list on a daily base or check if links still work. So if something wrong or if you want to add something please read [this](CONTRIBUTING.md) to contribute. 
 
 ### Overview
 - [My favourites](https://github.com/Sjamilla/awesome-recruitment#%EF%B8%8F-my-favourites)
