@@ -132,18 +132,25 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Multi-links](https://chrome.google.com/webstore/detail/multi-links/gflgnmgilmokfhbckilljalhemjjeldl?hl=en) - Open multiple links at once.
 - [Tabagotchi by Breather](https://chrome.google.com/webstore/detail/tabagotchi-by-breather/ojahbhfflnbaiddhnkgeccgopmedjjen?hl=en) - Get rid of unnecessary distractions and increase your productivity with Tabagotchi.
 - [My Time Zone](https://chrome.google.com/webstore/detail/my-time-zone-automatic-ti/fdmjemdmpmohggbjhmbeoipmheemmcpm) - Automatic timezone conversion for simple scheduling.
+- [Bulk URL Opener](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm?hl=en) - Bulk URL Opener Extension just lets you open multiple URLs at once (in new tabs or windows). 
+- [Text Blaze](https://blaze.today/) - Speed up common typing tasks with templates. 
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) - Personal dashboard designed to eliminate distraction and provide inspiration, focus, and productivity.
+
+
+
 
 
 
 #### 🔏 Privacy & Safety
-- [Dashlane](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg)
+- [Dashlane](https://chrome.google.com/webstore/detail/fdjamakpfbbddfjaooikfcpapjohcfmg) - Password Manager
 - [DuckDuckGo Privacy Essentials
 ](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
-- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Ad Blocker
 - [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
 - [Password-alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=nl)
-- [Have I Been Pwned?](https://haveibeenpwned.com/)
-- [Watch Your Hack](https://watchyourhack.com/)
+- [Have I Been Pwned?](https://haveibeenpwned.com/) 
+- [Watch Your Hack](https://watchyourhack.com/) - Fantastic guide about security 
+- [LastPass](https://www.lastpass.com/) - Password Manager 
 
 #### 📹 Video & Images
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
@@ -261,6 +268,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Connectifier - *only with LI recruiter*](https://business.linkedin.com/talent-solutions/recruiter/connectifier) 💰
 - [LinkedIn Sales email to profile tool](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) - replace the last part of the url with any email to see if there is a LinkedIn profile connected to it
 - [SalesQL](https://salesql.com/) 
+- [Swordfish](https://swordfishapp.com)
 
 #### :squirrel: Scraping
  - [Data Scraper - Easy Web Scraping](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden)
@@ -292,6 +300,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [PayScale](http://www.payscale.com/cbpr)
  - [CB Insights](https://www.cbinsights.com/) -  company research 
  - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page lots of resources listed
+ - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - interactive tutorials for recruiters who want to learn about tech
 
 ## 🔎 Search Engines
 
