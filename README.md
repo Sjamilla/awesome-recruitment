@@ -177,6 +177,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Logopony](https://www.logopony.com/) - create a logo 💰
 - [xtensio user persona](https://xtensio.com/user-persona/) 
 - [Lempod](https://lempod.com/) - Growth Hacking Tool to increase traction on LI posts
+- [Make My Persona](https://www.hubspot.com/make-my-persona) - A tool by HubSpot to make your persona. 
 
 
 #### 📫 Email
@@ -298,6 +299,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Jobpage Grader](https://jobpagegrader.com/)
 - [Enlighten Jobs](https://www.enlightenjobs.com/job-titles.php) - Job title search
 
+#### Interviewing
+- [Interview Question Generator](https://www.interviewquestiongenerator.com)
+
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
  - [Paysa](https://www.paysa.com/)
@@ -305,6 +309,8 @@ The rest is pretty cool too, but these deserve a special place :)
  - [CB Insights](https://www.cbinsights.com/) -  company research 
  - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page lots of resources listed
  - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - interactive tutorials for recruiters who want to learn about tech
+ - [List of programming slack communities](https://slofile.com/category/Programming) 
+ - [CV Timeline](https://www.cvtimeline.com/)
 
 ## 🔎 Search Engines
 
