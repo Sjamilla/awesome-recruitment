@@ -1,4 +1,4 @@
-#Contributing
+# Contributing
 
 If you find something broken or if you want to add a new company please **contribute with a pull request**.
 
