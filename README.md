@@ -301,6 +301,9 @@ The rest is pretty cool too, but these deserve a special place :)
 
 #### Interviewing
 - [Interview Question Generator](https://www.interviewquestiongenerator.com)
+- [Interview Cake](https://www.interviewcake.com/) - Programming Interview Course for developers 
+- [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
+- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs
 
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
