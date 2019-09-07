@@ -78,7 +78,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Tris Revill (DBR & Growth Hacking Recruiters)](https://www.youtube.com/channel/UCfSV1eDqGhSsJ_UaRnnCuOA/videos)
 - [Josef Kadlec](https://www.youtube.com/user/josefkadlec/videos)
 - [ohsusannamarie](https://www.youtube.com/channel/UCMENmamzULqh7WHzNRdd0dQ/videos)
-- [Sourcers Who Code, also by Susanna ❤️](https://www.youtube.com/playlist?list=PLh9V7buk0vuDxX9G_acEyuZ4VVMa7b51v)
+- [Sourcers Who Code, also by Susanna](https://www.youtube.com/playlist?list=PLh9V7buk0vuDxX9G_acEyuZ4VVMa7b51v)
 - [Greg Hawkes](https://www.youtube.com/channel/UC4uSR-TuXuq6LuAJje3wIlQ/videos)
 - [The #SocialRecruiting Show](https://www.thesearchologist.com/social-media-recruitment-training/blog/)
 - [RecruiterZone](https://www.crowdcast.io/recruiterzone)
@@ -317,9 +317,9 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
  - [Paysa](https://www.paysa.com/)
  - [PayScale](http://www.payscale.com/cbpr)
- - [CB Insights](https://www.cbinsights.com/) -  Company research. 
- - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page lots of resources listed
- - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - interactive tutorials for recruiters who want to learn about tech
+ - [CB Insights](https://www.cbinsights.com/) - Company research. 
+ - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page, lots of resources listed.
+ - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - Interactive tutorials for recruiters who want to learn about tech.
  - [List of programming slack communities](https://slofile.com/category/Programming) 
  - [CV Timeline](https://www.cvtimeline.com/)
 
@@ -334,8 +334,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Bing](https://www.bing.com/)
 - [Search Engine Colossus ](http://searchenginecolossus.com/) - International directory of search engines.
 - [Wayback Machine](http://archive.org/web/)
-- [List of Custom Search Engines](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?) _*please let me know if you know who created this I want to give you the credits for this._
-- [Interpol Wanted People](http://www.interpol.int/notice/search/wanted) -  I have no idea why you should use this as a recruiter.
+- [List of Custom Search Engines](https://docs.google.com/spreadsheets/u/1/d/13Uja8lFYDbZVQ0uVNDAnbxsiXFaLZpCdwFLBnHuakNE/htmlview?) _- *please let me know if you know who created this I want to give you the credits for this._
+- [Interpol Wanted People](http://www.interpol.int/notice/search/wanted) - I have no idea why you should use this as a recruiter.
 - [World Bank Open Data](https://data.worldbank.org/) - Free and open access to global development data.
 - [Open Corporates](https://opencorporates.com/) - The largest open database of companies in the world.
 
