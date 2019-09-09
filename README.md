@@ -296,6 +296,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 #### :octocat: Github Tools
  - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
+ - [Profiled for GitHub](https://chrome.google.com/webstore/detail/profiled-for-github/gliklioolkfpkcgjfkobfgcgolliahll) - Find a GitHub user's social profiles and add them to the page
  - [OctoHR](https://chrome.google.com/webstore/detail/beiklbdjdmfkgchmiabjejdlpaoicbef)
  - [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk)
  - [CoderStats link for Github Coders](https://chrome.google.com/webstore/detail/necogepejonacpphmlmcagmbjaogpbng)
