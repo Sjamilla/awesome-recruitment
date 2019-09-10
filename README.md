@@ -300,6 +300,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [GitHub Hovercard](https://chrome.google.com/webstore/detail/mmoahbbnojgkclgceahhakhnccimnplk)
  - [CoderStats link for Github Coders](https://chrome.google.com/webstore/detail/necogepejonacpphmlmcagmbjaogpbng)
  - [Github User Rank](https://chrome.google.com/webstore/detail/oabhkjmpcnkeifhahnlhafajeoofhjak)
+ - [Profiled for GitHub](https://chrome.google.com/webstore/detail/profiled-for-github/gliklioolkfpkcgjfkobfgcgolliahll) - Find a GitHub user's social profiles.
 
 #### 🙋 Job Description Tools
  - [Textio](https://textio.com/) 💰
