@@ -197,6 +197,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Snov.io](https://snov.io/) - 💰Find emails, verify them and run your email campaign. 
 - [TestSubject](https://zurb.com/playground/testsubject) - Test how your email subject lines appear on mobile devices.
 - [Trinsly](https://trinsly.com/) - 💰 Personalized Email Automation for recruiters. 
+- [Temp-Mail](https://temp-mail.org/en/) - Free throw-away email. 
 
 
 #### 📑 Grammar, Spelling & Words
