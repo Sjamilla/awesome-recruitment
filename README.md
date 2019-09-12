@@ -366,6 +366,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Mulpix](https://mulpix.com/) - Search for specific text in posts. 
 - [Stalkture](https://stalkture.com/a/jamesrodriguez10/188222091) - Instragram Statistics for users. 
 - [Picdeer](http://picdeer.org/search) - Find instagram users based on names. 
+- [HypeAuditor](https://hypeauditor.com/) - Analyze Instagram and YouTube users. 
+
+- Big shout out to [Henk van Ess](https://twitter.com/henkvaness) for sharing most these Instagram tools on Twitter. 
 
 
 ##### Twitter Search 
