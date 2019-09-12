@@ -355,10 +355,18 @@ The rest is pretty cool too, but these deserve a special place :)
 ##### Facebook Search
 - [Facebook Graph Search * _By Henk van Ess_](http://graph.tips/beta/)
 - [StalkFace](https://stalkface.com/en/)
+- [WhoPostedWhat](https://whopostedwhat.com/) - by Henk van Ess. 
 
 ##### Instagram Search 
 - [ISDB.PW](https://isdb.pw/) - Username search for saved stories.
 - [Webstagram](http://web.stagram.com/) - Search for tags & users.
+- [Searchmybio](https://www.searchmy.bio) - Search Instagram user bios. 
+- [GramUser](https://gramuser.com) - Instagram username search. 
+- [High Resolution Instragram Downloader](https://chrome.google.com/webstore/detail/high-resolution-downloade/hbijmiokbffalbolieapplfhmmnioeao) - Download high res. instragram pictures. 
+- [Mulpix](https://mulpix.com/) - Search for specific text in posts. 
+- [Stalkture](https://stalkture.com/a/jamesrodriguez10/188222091) - Instragram Statistics for users. 
+- [Picdeer](http://picdeer.org/search) - Find instagram users based on names. 
+
 
 ##### Twitter Search 
 - [#onemilliontweetmap](onemilliontweetmap.com) - Maps tweets per location.
@@ -376,6 +384,8 @@ The rest is pretty cool too, but these deserve a special place :)
 ##### Other Social Media Search 
 - [Snapchat live Map](https://map.snapchat.com/) - Snapchat Live Stories Map.
 - [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html)
+- [Social Searcher](https://www.social-searcher.com) - Free Social Media Search Engine. 
+
 
 WORK IN PROGRESS
 
