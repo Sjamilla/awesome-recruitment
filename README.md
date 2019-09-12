@@ -151,6 +151,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Read Later](https://chrome.google.com/webstore/category/themes?hl=en) - Store links to read later.
 - [Scroll it!](https://chrome.google.com/webstore/detail/scroll-it/nlndoolndemidhlomaokpfbicfnjeeed?hl=en) - Automatic scrolling websites.
 - [AutoScroll](https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en) - Customizable autoscroll.
+- [Krisp](https://krisp.ai/) - App that mutes background noise during calls. 
 
 
 
