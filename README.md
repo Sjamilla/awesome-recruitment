@@ -313,7 +313,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Enlighten Jobs](https://www.enlightenjobs.com/job-titles.php) - Job title search.
 
 #### 🛠️ Reference Checking Tools
-- [Zinc - Automated Referencing](https://zinc.work/) 💰
+- [Zinc - Automated Referencing](https://zinc.work/)
 
 #### Interviewing
 - [Interview Question Generator](https://www.interviewquestiongenerator.com)
