@@ -312,11 +312,15 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Jobpage Grader](https://jobpagegrader.com/)
 - [Enlighten Jobs](https://www.enlightenjobs.com/job-titles.php) - Job title search.
 
+#### 🛠️ Reference Checking Tools
+- [Zinc - Automated Referencing](https://zinc.work/)
+
 #### Interviewing
 - [Interview Question Generator](https://www.interviewquestiongenerator.com)
 - [Interview Cake](https://www.interviewcake.com/) - Programming Interview Course for developers. 
 - [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
+- [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
 
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
@@ -327,6 +331,9 @@ The rest is pretty cool too, but these deserve a special place :)
  - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - Interactive tutorials for recruiters who want to learn about tech.
  - [List of programming slack communities](https://slofile.com/category/Programming) 
  - [CV Timeline](https://www.cvtimeline.com/)
+ - [Candidate background checking guidelines](https://zinc.work/blog/post/background-checking-global-teams)
+ - [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
+
 
 ## 🔎 Search Engines
 
