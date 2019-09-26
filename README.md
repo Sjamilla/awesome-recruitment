@@ -245,6 +245,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Pexels](https://www.pexels.com/) - Free stock photo'.
 - [Flaticon](https://www.flaticon.com/) - Free vector icons.
 - [Prezi](https://prezi.com/) - 💰 Presentation software. 
+- [Theme Forest](https://graphicriver.net/presentation-templates) - Presentation templates. 
 
 
 
