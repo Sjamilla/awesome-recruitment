@@ -165,6 +165,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Password-alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep?hl=nl) - Password Alert helps protect against phishing attacks.
 - [Have I Been Pwned?](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
 - [Watch Your Hack](https://watchyourhack.com/) - ❤️ Fantastic guide about security, this is a MUST READ. 
+- [Sticky Password](https://www.stickypassword.com/) - Password Manager. 
 
 #### 📹 Video & Images
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
