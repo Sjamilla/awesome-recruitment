@@ -200,6 +200,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [TestSubject](https://zurb.com/playground/testsubject) - Test how your email subject lines appear on mobile devices.
 - [Trinsly](https://trinsly.com/) - 💰 Personalized Email Automation for recruiters. 
 - [Temp-Mail](https://temp-mail.org/en/) - Free throw-away email. 
+- [Gmelius](https://gmelius.com/) - Email Automation. 
 
 
 #### 📑 Grammar, Spelling & Words
@@ -219,6 +220,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Email Subjectline tester](https://sendcheckit.com/email-subject-line-tester)
 - [Subjectline rater](http://subjectline.com/)
 - [LinkStyle Docs Add-on](https://chrome.google.com/webstore/detail/link-style/llkdachfmajhffehofbjmkdbfjhkjkpb?hl=en-GB) - Because you can't edit the color for links by default :|
+- [Hemmingway Editor](http://www.hemingwayapp.com/) - Readability check. 
+- [Quetext](https://www.quetext.com/) - Plagiarism Checker & Citation Assistant. 
+- [UniCheck](https://unicheck.com/) - 💰 Plagiarism Check. 
 
 
 #### 🛫 Relocation, Travel & Research
@@ -274,6 +278,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Storyful Multisearch](https://chrome.google.com/webstore/detail/hkglibabhninbjmaccpajiakojeacnaf)
 - [Onstrat OSINT](http://onstrat.com/osint/) - by Randolph Hock, Ph.D. 
 - [ZAPinfo](https://www.zapinfo.io/)
+- [SeekOut](https://seekout.io/) - 💰 Sourcing Tool. 
 
 #### :phone: Contact info
 - [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna) 
@@ -287,7 +292,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Connectifier](https://business.linkedin.com/talent-solutions/recruiter/connectifier) - 💰
 - [LinkedIn Sales email to profile tool](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) - replace the last part of the url with any email to see if there is a LinkedIn profile connected to it.
 - [SalesQL](https://salesql.com/) 
-- [Swordfish](https://swordfishapp.com)
+- [Swordfish](https://swordfishapp.com) 
 
 #### :squirrel: Scraping
  - [Data Scraper](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden) - Easy Web Scraping.
@@ -305,6 +310,9 @@ The rest is pretty cool too, but these deserve a special place :)
  - [CoderStats link for Github Coders](https://chrome.google.com/webstore/detail/necogepejonacpphmlmcagmbjaogpbng)
  - [Github User Rank](https://chrome.google.com/webstore/detail/oabhkjmpcnkeifhahnlhafajeoofhjak)
  - [Profiled for GitHub](https://chrome.google.com/webstore/detail/profiled-for-github/gliklioolkfpkcgjfkobfgcgolliahll) - Find a GitHub user's social profiles.
+ - [GitAwards](http://git-awards.com/) - Github User Ranking Search Tool.
+ - [Git:Logs](https://www.gitlogs.com/) - Discover the Top Trending Repos. 
+ - [developerDB](developerDB) - 💰 Search Tool. 
 
 #### 🙋 Job Description Tools
  - [Textio](https://textio.com/) 💰
