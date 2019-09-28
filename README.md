@@ -201,6 +201,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Trinsly](https://trinsly.com/) - 💰 Personalized Email Automation for recruiters. 
 - [Temp-Mail](https://temp-mail.org/en/) - Free throw-away email. 
 - [Gmelius](https://gmelius.com/) - Email Automation. 
+- [Resource](https://www.resource.io/) - 💰 All-in-one Outreach & CRM platform for recruitment teams. 
 
 
 #### 📑 Grammar, Spelling & Words
@@ -223,6 +224,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Hemmingway Editor](http://www.hemingwayapp.com/) - Readability check. 
 - [Quetext](https://www.quetext.com/) - Plagiarism Checker & Citation Assistant. 
 - [UniCheck](https://unicheck.com/) - 💰 Plagiarism Check. 
+- [Plagiarism Checker](https://www.plagiarismsoftware.net/) - Plagiarism Check. 
 
 
 #### 🛫 Relocation, Travel & Research
@@ -321,6 +323,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Joblint](http://joblint.org/)
 - [Jobpage Grader](https://jobpagegrader.com/)
 - [Enlighten Jobs](https://www.enlightenjobs.com/job-titles.php) - Job title search.
+- [BeApplied](https://textanalysis.beapplied.com) - Job Description Text analysis. 
+- [TapRecruit](https://taprecruit.co/) - 💰 Smart Job Description Editor. 
 
 #### 🛠️ Reference Checking Tools
 - [Zinc - Automated Referencing](https://zinc.work/)
