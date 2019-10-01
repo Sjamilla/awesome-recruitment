@@ -105,6 +105,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Big list of Recruitment events 2019](https://www.recruitingbrainfood.com/list-of-events-2019/) - By Hung Lee. 
 - [Big list of Recruiting / HR podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/) - By Hung Lee. 
 - [Big list of Online Recruiting Communities](https://www.recruitingbrainfood.com/big-list-of-online-recruiter-communities) - By Hung Lee. 
+- [SSaR](https://start.me/p/GE7Ebm/ssar) - Huge Tools list by Dean Da Costa.
 
 
 
