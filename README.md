@@ -282,6 +282,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Onstrat OSINT](http://onstrat.com/osint/) - by Randolph Hock, Ph.D. 
 - [ZAPinfo](https://www.zapinfo.io/)
 - [SeekOut](https://seekout.io/) - 💰 Sourcing Tool. 
+- [BooleanStrings Bank](https://scoperac.com/booleanstringbank/) - String directory for Sourcers. 
 
 #### :phone: Contact info
 - [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna) 
