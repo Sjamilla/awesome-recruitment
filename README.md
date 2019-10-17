@@ -350,6 +350,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Candidate background checking guidelines](https://zinc.work/blog/post/background-checking-global-teams)
  - [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
+ - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
 
 
 ## 🔎 Search Engines
