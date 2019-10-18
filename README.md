@@ -30,7 +30,7 @@ Can you help? **yes!** This is open source and I don't have time to update this 
 The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
 - [IntelTechniques](https://inteltechniques.com/menu.html)
-- [Amazing Hiring](http://bit.ly/2YSa31u)
+- [Amazing Hiring](http://bit.ly/2YSa31u) - use this code ```SJAMILLA``` to try the full version for free 💯.  
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [Pipl API - _*Demo*_](https://pipl.com/api/demo)
 - [Giphy](https://giphy.com/)
