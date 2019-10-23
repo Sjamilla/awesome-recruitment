@@ -226,6 +226,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Quetext](https://www.quetext.com/) - Plagiarism Checker & Citation Assistant. 
 - [UniCheck](https://unicheck.com/) - 💰 Plagiarism Check. 
 - [Plagiarism Checker](https://www.plagiarismsoftware.net/) - Plagiarism Check. 
+- [SmallsSeoTools](https://smallseotools.com/plagiarism-checker/) - Grammar, Image & Plagiarism Check.
 
 
 #### 🛫 Relocation, Travel & Research
