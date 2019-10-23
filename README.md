@@ -29,6 +29,7 @@ Can you help? **yes!** This is open source and I don't have time to update this 
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
+- [Amazing Hiring](http://bit.ly/2YSa31u)
 - [IntelTechniques](https://inteltechniques.com/menu.html)
 - [Amazing Hiring](http://bit.ly/2YSa31u) - use this code ```SJAMILLA``` to try the full version for free 💯.  
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
@@ -93,6 +94,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)
 - [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
 - [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
+- [The Joy of Google Search - Daniel M. Russel] (https://www.amazon.com/Joy-Search-Google-Insiders-Beyond/dp/0262042878)
 
 ## ❤️ Cool lists created by cool people
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
