@@ -30,6 +30,8 @@ Can you help? **yes!** This is open source and I don't have time to update this 
 The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
 - [Amazing Hiring](http://bit.ly/2YSa31u)
+- [IntelTechniques](https://inteltechniques.com/menu.html)
+- [Amazing Hiring](http://bit.ly/2YSa31u) - use this code ```SJAMILLA``` to try the full version for free 💯.  
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
 - [Pipl API - _*Demo*_](https://pipl.com/api/demo)
 - [Giphy](https://giphy.com/)
@@ -349,6 +351,8 @@ The rest is pretty cool too, but these deserve a special place :)
  - [CV Timeline](https://www.cvtimeline.com/)
  - [Candidate background checking guidelines](https://zinc.work/blog/post/background-checking-global-teams)
  - [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
+ - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
+ - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
 
 
 ## 🔎 Search Engines
