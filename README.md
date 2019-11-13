@@ -318,6 +318,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [GitAwards](http://git-awards.com/) - Github User Ranking Search Tool.
  - [Git:Logs](https://www.gitlogs.com/) - Discover the Top Trending Repos. 
  - [developerDB](developerDB) - 💰 Search Tool. 
+ - [Profile Summary for GittHub profiles](https://profile-summary-for-github.com/search)
 
 #### 🙋 Job Description Tools
  - [Textio](https://textio.com/) 💰
