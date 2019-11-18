@@ -331,7 +331,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [TapRecruit](https://taprecruit.co/) - 💰 Smart Job Description Editor. 
 
 #### 🛠️ Reference Checking Tools
-- [Zinc - Automated Referencing](https://zinc.work/)
+- [Zinc - Reference Generator](https://zinc.work/reference-generator) - Free Culture-fit reference question generator.
+- [Xref template builder](https://template-builder.xref.com/) - Free reference check question template builder. 
 
 #### Interviewing
 - [Interview Question Generator](https://www.interviewquestiongenerator.com)
