@@ -333,6 +333,8 @@ The rest is pretty cool too, but these deserve a special place :)
 #### 🛠️ Reference Checking Tools
 - [Zinc - Reference Generator](https://zinc.work/reference-generator) - Free Culture-fit reference question generator.
 - [Xref template builder](https://template-builder.xref.com/) - Free reference check question template builder. 
+- [Candidate background checking guidelines](https://zinc.work/blog/post/background-checking-global-teams)
+- [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
 
 #### Interviewing
 - [Interview Question Generator](https://www.interviewquestiongenerator.com)
@@ -349,11 +351,10 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page, lots of resources listed.
  - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - Interactive tutorials for recruiters who want to learn about tech.
  - [List of programming slack communities](https://slofile.com/category/Programming) 
+  - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
- - [Candidate background checking guidelines](https://zinc.work/blog/post/background-checking-global-teams)
- - [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
- - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
+ - [HiringPlan](https://hiringplan.io/) - A visual compensation planning tool with built-in market data.
 
 
 ## 🔎 Search Engines
