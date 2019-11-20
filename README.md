@@ -284,6 +284,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [ZAPinfo](https://www.zapinfo.io/)
 - [SeekOut](https://seekout.io/) - 💰 Sourcing Tool. 
 - [BooleanStrings Bank](https://scoperac.com/booleanstringbank/) - String directory for Sourcers. 
+- [Bing vs Google](http://bvsg.org/) 
 
 #### :phone: Contact info
 - [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna) 
