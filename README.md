@@ -93,6 +93,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [The Book of Recruiting; Da Costa Style - Dean Da Costa & Derek Zeller](https://www.amazon.com/Book-Recruiting-Costa-Style/dp/1717803245/ref=sr_1_1?s=books&ie=UTF8&qid=1533303148&sr=1-1)
 - [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 - [The Joy of Google Search - Daniel M. Russel](https://www.amazon.com/Joy-Search-Google-Insiders-Beyond/dp/0262042878)
+- [The Holloway Guide to Technical Recruiting and Hiring](https://www.holloway.com/g/technical-recruiting-hiring/about)
 
 ## ❤️ Cool lists created by cool people
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
