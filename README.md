@@ -63,6 +63,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Growth Hacking Recruiters](https://www.facebook.com/groups/GrowthHackingRecruiters/about/)
 - [Secret Sourcing Group](https://www.facebook.com/groups/secret.sourcing/)
 - [Recruiters Online](https://www.facebook.com/groups/recruitersonline/)
+- [Poland Sourcing Community](https://www.facebook.com/groups/polandsourcingcommunity/)
 
 ## 🎧 Audio
 - [Talk Talent to Me](http://www.talktalenttome.com/)
