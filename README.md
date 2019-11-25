@@ -1,12 +1,12 @@
  # Awesome Recruitment
 
-Hi there, I am Sjamilla 👋.
+Hi there, I am [Sjamilla](https://www.linkedin.com/in/svdtooren/) 👋, 
 
-This is just a list of recruitment resources I use. I couldn't handle everything being in 10000 different places so I decided to put it here. Just for me, but if you want to use it (or add stuff) feel free to do so :).
+This is a list of (recruitment) tools and resources I use. I couldn't handle everything being in 10000 different places so I decided to put it here. Just for me, but if you want to use it (or add stuff) feel free to do so 👍.
 
 This is a work in progress, and probably will be for the upcoming 100 years 🤷.
 
-*Note: I don't find all this stuff myself, I put it here after I find it on Product Hunt, hear about them from amazing people in the recruiting / sourcing community and at conferences.*
+*Note: I don't find all this stuff myself, I put it here after I find it on Product Hunt, blogs, hear about them from amazing people in the recruiting / sourcing community and at conferences.*
 
 Can you help? **yes!** This is open source and I don't have time to update this list on a daily base or check if links still work. So if something wrong or if you want to add something please read [this](CONTRIBUTING.md) to contribute. 
 
