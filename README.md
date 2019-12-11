@@ -293,6 +293,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [SeekOut](https://seekout.io/) - 💰 Sourcing Tool. 
 - [BooleanStrings Bank](https://scoperac.com/booleanstringbank/) - String directory for Sourcers. 
 - [Bing vs Google](http://bvsg.org/) 
+- [Search All](https://chrome.google.com/webstore/detail/search-all/kpdkbemdpepjjppbfgeapjienologapa) - The easiest way to access different search engines.
+
 
 #### :phone: Contact info
 - [Lusha](https://chrome.google.com/webstore/detail/mcebeofpilippmndlpcghpmghcljajna) 
