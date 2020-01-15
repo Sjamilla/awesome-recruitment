@@ -293,7 +293,6 @@ The rest is pretty cool too, but these deserve a special place :)
 - [ZAPinfo](https://www.zapinfo.io/)
 - [SeekOut](https://seekout.io/) - 💰 Sourcing Tool. 
 - [BooleanStrings Bank](https://scoperac.com/booleanstringbank/) - String directory for Sourcers. 
-- [Bing vs Google](http://bvsg.org/) 
 - [Search All](https://chrome.google.com/webstore/detail/search-all/kpdkbemdpepjjppbfgeapjienologapa) - The easiest way to access different search engines.
 
 
@@ -386,6 +385,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Interpol Wanted People](http://www.interpol.int/notice/search/wanted) - I have no idea why you should use this as a recruiter.
 - [World Bank Open Data](https://data.worldbank.org/) - Free and open access to global development data.
 - [Open Corporates](https://opencorporates.com/) - The largest open database of companies in the world.
+- [I Search From](http://isearchfrom.com/?fbclid=IwAR1J6lFK8qJDl4b-_2sx0uLgthXmLvt_BfEAXoaBtRySvkwMlZFCeLPEE4Y) - Google Search from a different location & device.
+- [Bing vs Google](http://bvsg.org/) - Compare search results. 
 
 
 ##### Academic Search Engines
