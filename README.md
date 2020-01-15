@@ -263,7 +263,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Theme Forest](https://graphicriver.net/presentation-templates) - Presentation templates. 
 - [Gravit Designer](https://designer.gravit.io/) - Online photo editor 💰.
 - [Undraw](https://undraw.co/) - Open-source illustrations. 
-
+- [Remove Background](https://www.remove.bg/) - Remove image background automatically. 
 
 
 #### 🆒 Other
