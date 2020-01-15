@@ -113,8 +113,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Big list of Recruiting / HR podcasts](https://www.recruitingbrainfood.com/big-list-of-podcasts/) - By Hung Lee. 
 - [Big list of Online Recruiting Communities](https://www.recruitingbrainfood.com/big-list-of-online-recruiter-communities) - By Hung Lee. 
 - [SSaR](https://start.me/p/GE7Ebm/ssar) - Huge Tools list by Dean Da Costa.
-
-
+- [CSE Utopia](https://start.me/p/EL84Km/cse-utopia) - Amazing list of public CSEs by Dean Da Costa.
 
 ## 🛠️ Tools (Not recruitment specific)
 
