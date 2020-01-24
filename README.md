@@ -263,6 +263,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Gravit Designer](https://designer.gravit.io/) - Online photo editor 💰.
 - [Undraw](https://undraw.co/) - Open-source illustrations. 
 - [Remove Background](https://www.remove.bg/) - Remove image background automatically. 
+- [Freepik](https://www.freepikcompany.com/) - Free images & illustrations.
+- [Simple Icons](https://simpleicons.org/) - Free SVG icons from brands. 
+- [Paste](https://pasteapp.com/) - Create easy and good looking slide decks. 
 
 
 #### 🆒 Other
