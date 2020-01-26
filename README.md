@@ -266,6 +266,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Freepik](https://www.freepikcompany.com/) - Free images & illustrations.
 - [Simple Icons](https://simpleicons.org/) - Free SVG icons from brands. 
 - [Paste](https://pasteapp.com/) - Create easy and good looking slide decks. 
+- [Colors by Adobe](https://color.adobe.com/create) - Handy color tool by adobe. 
 
 
 #### 🆒 Other
