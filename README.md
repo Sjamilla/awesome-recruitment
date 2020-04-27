@@ -159,7 +159,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Scroll it!](https://chrome.google.com/webstore/detail/scroll-it/nlndoolndemidhlomaokpfbicfnjeeed?hl=en) - Automatic scrolling websites.
 - [AutoScroll](https://chrome.google.com/webstore/detail/autoscroll/occjjkgifpmdgodlplnacmkejpdionan?hl=en) - Customizable autoscroll.
 - [Krisp](https://krisp.ai/) - App that mutes background noise during calls. 
-- [JumpCut](https://snark.github.io/jumpcut/) - MacOS clipboard manager that saves your clipboard history. 
+- [JumpCut](https://snark.github.io/jumpcut/) - MacOS clipboard manager that saves your clipboard history.
+- [Hypothesis](https://hypothes.is/) - Collaboratively annotate, highlight, and tag web pages and PDF documents.
 
 
 
