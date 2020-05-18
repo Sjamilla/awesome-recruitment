@@ -34,10 +34,9 @@ Can you help? **yes!** This is open source and I don't have time to update this 
 ## ❤️ My favourites
 The rest is pretty cool too, but these deserve a special place :)
 - [Sourcing Games](http://sourcing.games/)
-- [Amazing Hiring](http://bit.ly/2YSa31u) - use this code ```SJAMILLA``` to try the [full version](https://amazinghiring.com/request-demo/) for free 💯.  
 - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
-- [Pipl API - _*Demo*_](https://pipl.com/api/demo)
 - [Giphy](https://giphy.com/)
+- [MixMax](http://ssqt.co/mQgncqF) 
 
 - This simple text editor in my browser
   - *tip: create a bookmark with this (only this line of code) and pin it on the first tab when you are sourcing*
