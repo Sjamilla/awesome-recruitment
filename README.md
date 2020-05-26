@@ -336,6 +336,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Git:Logs](https://www.gitlogs.com/) - Discover the Top Trending Repos. 
  - [developerDB](developerDB) - 💰 Search Tool. 
  - [Profile Summary for GittHub profiles](https://profile-summary-for-github.com/search)
+ - [Showing hidden mail and status](https://chrome.google.com/webstore/detail/emailongithub/jjmphadcgcmpdnombcomlmmbmojccmcf)
 
 #### 🙋 Job Description Tools
  - [Textio](https://textio.com/) 💰
