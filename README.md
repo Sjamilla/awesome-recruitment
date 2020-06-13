@@ -339,6 +339,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Showing hidden mail and status](https://chrome.google.com/webstore/detail/emailongithub/jjmphadcgcmpdnombcomlmmbmojccmcf)
 
 #### 🙋 Job Description Tools
+ - [Adaface Job Description Generator](https://www.adaface.com/job-description-generator) - Free templates to easily create, edit, publish and share job descriptions for popular roles in tech.
  - [Textio](https://textio.com/) 💰
  - [Gender Decoder for Job Ads
 ](http://gender-decoder.katmatfield.com/)
