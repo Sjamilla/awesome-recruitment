@@ -396,6 +396,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Open Corporates](https://opencorporates.com/) - The largest open database of companies in the world.
 - [I Search From](http://isearchfrom.com/?fbclid=IwAR1J6lFK8qJDl4b-_2sx0uLgthXmLvt_BfEAXoaBtRySvkwMlZFCeLPEE4Y) - Google Search from a different location & device.
 - [Bing vs Google](http://bvsg.org/) - Compare search results. 
+- [40 Custom Search Engines, by Irina Shamaeva](https://booleanstrings.com/all-the-40-forty-custom-search-engines/)
 
 
 ##### Academic Search Engines
