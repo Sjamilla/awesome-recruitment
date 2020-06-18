@@ -99,6 +99,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [The Robot-Proof Recruiter: A Survival Guide for Recruitment and Sourcing Professionals - Katrina Collier](https://www.amazon.com/Robot-Proof-Recruiter-Survival-Recruitment-Professionals-ebook-dp-B07VZVYXSN/dp/B07VZVYXSN/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 - [The Joy of Google Search - Daniel M. Russel](https://www.amazon.com/Joy-Search-Google-Insiders-Beyond/dp/0262042878)
 - [The Holloway Guide to Technical Recruiting and Hiring](https://www.holloway.com/g/technical-recruiting-hiring/about)
+- [Full Stack Recruiter: The Ultimate Edition (2020) - Jan Tegze](https://www.fullstackrecruiter.net/)
 
 ## ❤️ Cool lists created by cool people
 - [Martin Freeman's Sourcing Toolkit ](https://www.sheet2site.com/api/?key=14QxepwUDdmao57_gFA2Org4zr34Pl0GvKIs8TDBRjbA)
