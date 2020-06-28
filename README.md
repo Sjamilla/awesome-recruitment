@@ -180,7 +180,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Loom - Video Recorder: Screen, Webcam and Mic](https://chrome.google.com/webstore/detail/liecbddmkiiihnedobmlmillhodjkdmb)
 - [Annotate - Mac App](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12)
 - [CloudApp](https://www.getcloudapp.com/)
-- [Vidyard - Video Recorder](www.vidyard.com)
+- [Vidyard - Video Recorder](https://www.vidyard.com/)
 
 #### 📈 Marketing & Stats
 - [Similar Sites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn) - Discover Related Websites.
