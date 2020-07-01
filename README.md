@@ -161,6 +161,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Krisp](https://krisp.ai/) - App that mutes background noise during calls. 
 - [JumpCut](https://snark.github.io/jumpcut/) - MacOS clipboard manager that saves your clipboard history.
 - [Hypothesis](https://hypothes.is/) - Collaboratively annotate, highlight, and tag web pages and PDF documents.
+- [PyTipsTab](https://chrome.google.com/webstore/detail/pytipstab/ljdjaolmpenbokloahfaaifcpbgeojgi?hl=en) - A tool for Python lovers which shows Python tips after opening browser tab each time
 
 
 
