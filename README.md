@@ -317,6 +317,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [LinkedIn Sales email to profile tool](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) - replace the last part of the url with any email to see if there is a LinkedIn profile connected to it.
 - [SalesQL](https://salesql.com/) 
 - [Swordfish](https://swordfishapp.com) 
+- [Kendo](https://kendoemailapp.com/)
 
 #### :squirrel: Scraping
  - [Data Scraper](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden) - Easy Web Scraping.
