@@ -265,7 +265,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Prezi](https://prezi.com/) - 💰 Presentation software. 
 - [Theme Forest](https://graphicriver.net/presentation-templates) - Presentation templates. 
 - [Gravit Designer](https://designer.gravit.io/) - Online photo editor 💰.
-- [Undraw](https://undraw.co/) - Open-source illustrations. 
+- [Undraw](https://undraw.co/) - free open-source illustrations. 
 - [Remove Background](https://www.remove.bg/) - Remove image background automatically. 
 - [Freepik](https://www.freepikcompany.com/) - Free images & illustrations.
 - [Simple Icons](https://simpleicons.org/) - Free SVG icons from brands. 
