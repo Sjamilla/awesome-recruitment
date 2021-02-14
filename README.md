@@ -285,6 +285,7 @@ The rest is pretty cool too, but these deserve a special place :)
 #### 🔍 Search
 - [Amazing Hiring](https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd?hl=en)
 - [Open Source Intelligence](https://chrome.google.com/webstore/detail/open-source-intelligence/bclnaepfegjimpinlmgnipebbknlmmbh)
+- [Free People Search tool](https://freepeoplesearchtool.com/) - Search candidates on LinkedIn, Twitter, GitHub and Dribble.
 - [Pulsedive Osint Lookup](https://chrome.google.com/webstore/detail/pulsedive-osint-lookup/gdbemlfgncdmmljmkkcemfedbbfgghcp)
 	- [website](https://pulsedive.com/)
 - [Intelligence Search
