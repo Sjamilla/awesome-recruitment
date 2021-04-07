@@ -352,6 +352,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [BeApplied](https://textanalysis.beapplied.com) - Job Description Text analysis. 
 - [TapRecruit](https://taprecruit.co/) - 💰 Smart Job Description Editor. 
 - [Adaface Job Description Generator](https://www.adaface.com/job-description-generator) - Free templates to easily create, edit, publish and share job descriptions for popular roles in tech.
+- [Inclusiveness Check](https://inclusiveness-check.herokuapp.com/) - Analyse your job description for inclusive language and fixed vs growth mindset language 
 
 #### 🛠️ Reference Checking Tools
 - [Zinc - Reference Generator](https://zinc.work/reference-generator) - Free Culture-fit reference question generator.
