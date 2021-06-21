@@ -2,7 +2,7 @@
 
 Hi there, I am [Sjamilla](https://www.linkedin.com/in/svdtooren/) 👋, 
 
-I am a freelance / Interim Tech Sourcer from the Netherlands 🇳🇱. I help great companies scale their technical teams and give Sourcing trainings to Recruitment teams. You are currrently looking at a list of (recruitment) tools and resources that I use 🕵️‍♀️. 
+I am a Tech Sourcer from the Netherlands 🇳🇱. I help great companies scale their technical teams and give Sourcing trainings to Recruitment teams. You are currrently looking at a list of (recruitment) tools and resources that I use 🕵️‍♀️. 
 
 I created this in 2018 because I couldn't handle having all these resources in different places, so that's when I decided to put it here. Just for me, but I figured: why not make it public so other people can use it too 😁. I hope you find it useful! 
 
