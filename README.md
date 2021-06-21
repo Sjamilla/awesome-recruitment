@@ -236,6 +236,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [UniCheck](https://unicheck.com/) - 💰 Plagiarism Check. 
 - [Plagiarism Checker](https://www.plagiarismsoftware.net/) - Plagiarism Check. 
 - [SmallsSeoTools](https://smallseotools.com/plagiarism-checker/) - Grammar, Image & Plagiarism Check.
+- [Deepl Translator](https://www.deepl.com/en/translator) - AI Translation tool. 
 
 
 #### 🛫 Relocation, Travel & Research
