@@ -379,7 +379,7 @@ The rest is pretty cool too, but these deserve a special place :)
   - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
- - [HiringPlan](https://hiringplan.io/) - A visual compensation planning tool with built-in market data.
+ - [OpenComp](https://www.opencomp.com/) - A visual compensation planning tool with built-in market data.
  - [Levels.fyi](https://www.levels.fyi/) - Compare career levels across companies. 
  - [Progression.fyi](https://www.progression.fyi/) - Open Source Career level frameworks. 
 
