@@ -369,19 +369,19 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
 - [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
 
-#### 💸 Compensation 
+#### 💸 Compensation & career frameworks. 
 - [PayScale](https://www.payscale.com) 
 - [figures.hr](figures.hr) - Real-time European & UK data 
 - [Welcome](https://www.heywelcome.com/) - a BambooHR company, free & paid compensation info
 - [Ravio](https://ravio.com/) - Real-time compensation insights, free for all companies who integrate their data securely and anonymously.
-- [Levels.fyi](https://www.levels.fyi/) -  Open sourced level & salary insights - free to use. 
+- [Levels.fyi](https://www.levels.fyi/) -  Compare career levels & salaries across companies. 
 - [Pave](https://www.pave.com/) - Benchmark compensation, free options. 
-- [TechPays](https://techpays.eu/) - Open source compensation info (Europe) for tech roles. 
+- [TechPays](https://techpays.eu/) - Open source compensation info (Europe) for tech roles.  - [OpenComp](https://www.opencomp.com/) - A visual compensation planning tool with built-in market data.
+ - [Progression.fyi](https://www.progression.fyi/) - Open Source Career level frameworks. 
 
 
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
-
  - [CB Insights](https://www.cbinsights.com/) - Company research. 
  - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page, lots of resources listed.
  - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - Interactive tutorials for recruiters who want to learn about tech.
@@ -389,9 +389,6 @@ The rest is pretty cool too, but these deserve a special place :)
   - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
- - [OpenComp](https://www.opencomp.com/) - A visual compensation planning tool with built-in market data.
- - [Levels.fyi](https://www.levels.fyi/) - Compare career levels across companies. 
- - [Progression.fyi](https://www.progression.fyi/) - Open Source Career level frameworks. 
 
 
 ## 🔎 Search Engines
