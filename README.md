@@ -246,6 +246,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Paysa Cost of Living US](https://www.paysa.com/cost-of-living) - Calculate the cost of living. 
 - [TheTax](https://thetax.nl/) - 30% ruling Dutch Income Tax Calculator.
 - [German Net Salary Calculator](https://lohntastik.de/gns/gross-net-salary-calculator) - The calculator will assist you in determining how much of your gross salary will remain after taxes and social contributions have been deducted. 
+- [PrePay ADP](https://prepay.nl.adp.com/) - This tool can help you calculate net income (with 30% ruling) in the Netherlands. 
 
 #### 📅 Calendar & Meeting Tools
 - [Calendly](https://calendly.com/)
