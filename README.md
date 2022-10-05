@@ -282,6 +282,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [List with Slack communities (tech)](https://hundred5.com/blog/sourcing-from-slack)
 
 
+
 ## 🛠️ Recruitment Tools (Extensions & Websites)
 
 #### 🔍 Search
@@ -361,14 +362,14 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Candidate background checking guidelines](https://zinc.work/blog/post/background-checking-global-teams)
 - [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
 
-#### Interviewing
+#### 🗣 Interviewing
 - [Interview Question Generator](https://www.interviewquestiongenerator.com)
 - [Interview Cake](https://www.interviewcake.com/) - Programming Interview Course for developers. 
 - [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
 - [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
 
-#### Salary benchmark
+#### 💸 Compensation 
 - [PayScale](https://www.payscale.com) 
 - [figures.hr](figures.hr) - Real-time European & UK data 
 - [Welcome](https://www.heywelcome.com/) - a BambooHR company, free & paid compensation info
