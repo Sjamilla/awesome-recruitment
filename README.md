@@ -346,8 +346,7 @@ The rest is pretty cool too, but these deserve a special place :)
 
 #### 🙋 Job Description Tools
  - [Textio](https://textio.com/) 💰
- - [Gender Decoder for Job Ads
-](http://gender-decoder.katmatfield.com/)
+ - [Gender Decoder for Job Ads](http://gender-decoder.katmatfield.com/)
 - [Joblint](http://joblint.org/)
 - [Jobpage Grader](https://jobpagegrader.com/)
 - [Enlighten Jobs](https://www.enlightenjobs.com/job-titles.php) - Job title search.
@@ -369,10 +368,19 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
 - [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
 
+#### Salary benchmark
+- [PayScale](https://www.payscale.com) 
+- [figures.hr](figures.hr) - Real-time European & UK data 
+- [Welcome](https://www.heywelcome.com/) - a BambooHR company, free & paid compensation info
+- [Ravio](https://ravio.com/) - Real-time compensation insights, free for all companies who integrate their data securely and anonymously.
+- [Levels.fyi](https://www.levels.fyi/) -  Open sourced level & salary insights - free to use. 
+- [Pave](https://www.pave.com/) - Benchmark compensation, free options. 
+- [TechPays](https://techpays.eu/) - Open source compensation info (Europe) for tech roles. 
+
+
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
- - [Paysa](https://www.paysa.com/)
- - [PayScale](http://www.payscale.com/cbpr)
+
  - [CB Insights](https://www.cbinsights.com/) - Company research. 
  - [Weboasis](https://weboas.is/) - Pretty nice replacement for your next tab page, lots of resources listed.
  - [IT Recruiter Guide](https://balsamiq.cloud/s3wwmmm/py35j7i/r266E?f=N4IgUiBcAMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D) - Interactive tutorials for recruiters who want to learn about tech.
