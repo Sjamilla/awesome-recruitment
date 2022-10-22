@@ -2,13 +2,13 @@
 
 Hi there, I am [Sjamilla](https://www.linkedin.com/in/svdtooren/) 👋, 
 
-I am a Tech Sourcer from the Netherlands 🇳🇱. I help great companies scale their technical teams and give Sourcing trainings to Recruitment teams. You are currrently looking at a list of (recruitment) tools and resources that I use 🕵️‍♀️. 
+I am a Tech Sourcer & Recruiter from the Netherlands 🇳🇱. I help great companies scale their technical teams and give Sourcing trainings to Recruitment teams. You are currrently looking at a list of (recruitment) tools and resources that I use 🕵️‍♀️. 
 
 I created this in 2018 because I couldn't handle having all these resources in different places, so that's when I decided to put it here. Just for me, but I figured: why not make it public so other people can use it too 😁. I hope you find it useful! 
 
 I use this list on a daily base myself (I have it pinned as my first tab) and add new stuff whenever I find something that I think is cool 👉 This is a work in progress, and probably will be for the upcoming 100 years 🤷. 
 
-Can you help? **yes!** This is open source and I don't have time to update this list on a daily base or check if links still work. So if something wrong or if you want to add something please read [this](CONTRIBUTING.md) to contribute. 
+Can you help? **yes!** This is open source and I don't have time to update this list on a daily base or check if links still work. So if something wrong or if you want to add something please read [this](CONTRIBUTING.md) to contribute. If you'd like to help & maintain this page, please drop me a message (happy to collaborate on it together as I do not always have the time to maintain it myself). 
 
 *Note: I don't find all this stuff myself, I put it here after I find it on Product Hunt, blogs, hear about them from amazing people in the recruiting / sourcing community and at conferences.*
 
