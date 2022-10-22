@@ -446,6 +446,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [TwiNL](https://twinl.surfsara.nl) - Search in tweets.
 - [TwiMap](https://twimap.com/) - Search for tweets in a certain location.
 - [Followerwonk](https://followerwonk.com/)
+- [ExportData](https://www.exportdata.io/) - Export followers & followings, historical tweets and more in CSV and Excel. 💰
 
 ##### Keyword Search 
 - [Answer The Public](https://answerthepublic.com/)
