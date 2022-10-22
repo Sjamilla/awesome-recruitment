@@ -318,13 +318,14 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Prophet](https://chrome.google.com/webstore/detail/alikckkmddkoooodkchoheabgakpopmg)
 - [Snovio](https://snov.io/) - 💰
 - [Nymeria](https://www.nymeria.io/) 
-- [Connectifier](https://business.linkedin.com/talent-solutions/recruiter/connectifier) - 💰
 - [LinkedIn Sales email to profile tool](https://www.linkedin.com/sales/gmail/profile/viewByEmail/PUTEMAILHERE) - replace the last part of the url with any email to see if there is a LinkedIn profile connected to it.
 - [SalesQL](https://salesql.com/) 
 - [Swordfish](https://swordfishapp.com) 
 - [Kendo](https://kendoemailapp.com/)
+- [Signal Hire](https://www.signalhire.com/) 
+- [RocketReach](https://rocketreach.co/) - 💰
 
-#### :squirrel: Scraping
+#### 🐿 Scraping
  - [Data Scraper](https://chrome.google.com/webstore/detail/nndknepjnldbdbepjfgmncbggmopgden) - Easy Web Scraping.
  - [Instant Data Scraper](https://chrome.google.com/webstore/detail/ofaokhiedipichpaobibbnahnkdoiiah)
  - [Recipe Creator](https://chrome.google.com/webstore/detail/icadidhenmiokjlmpdgjikdoknhfgkhg)
