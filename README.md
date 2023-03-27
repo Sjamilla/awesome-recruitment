@@ -160,7 +160,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [JumpCut](https://snark.github.io/jumpcut/) - MacOS clipboard manager that saves your clipboard history.
 - [Hypothesis](https://hypothes.is/) - Collaboratively annotate, highlight, and tag web pages and PDF documents.
 - [PyTipsTab](https://chrome.google.com/webstore/detail/pytipstab/ljdjaolmpenbokloahfaaifcpbgeojgi?hl=en) - A tool for Python lovers which shows Python tips after opening browser tab each time
-
+- [Taskade](https://taskade.com/) - AI-powered task lists, structured notes, and mind maps, with real-time collaboration. 
 
 
 #### 🔏 Privacy & Safety
