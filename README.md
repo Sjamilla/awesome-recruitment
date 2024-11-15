@@ -452,7 +452,8 @@ The rest is pretty cool too, but these deserve a special place :)
 ##### Keyword Search 
 - [Answer The Public](https://answerthepublic.com/)
 - [Keyword finder](https://app.kwfinder.com/)
-- [Keyword shitter](https://keywordshitter.com/) 
+- [Keyword shitter](https://keywordshitter.com/)
+- [Serp Miner](https://serpminer.com/)
 
 ##### Other Social Media Search 
 - [Snapchat live Map](https://map.snapchat.com/) - Snapchat Live Stories Map.
