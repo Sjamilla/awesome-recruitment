@@ -211,7 +211,9 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Temp-Mail](https://temp-mail.org/en/) - Free throw-away email. 
 - [Gmelius](https://gmelius.com/) - Email Automation. 
 - [Resource](https://www.resource.io/) - 💰 All-in-one Outreach & CRM platform for recruitment teams. 
-- [Mailper](https://mailper.com/) - Free disposable inboxes. 
+- [Mailper](https://mailper.com/) - Free disposable inboxes.
+- [TempMail.so](https://www.tempmail.so/) - Free temporary email.
+
 
 
 #### 📑 Grammar, Spelling & Words
