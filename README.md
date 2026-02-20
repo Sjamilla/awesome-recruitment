@@ -391,7 +391,8 @@ The rest is pretty cool too, but these deserve a special place :)
  - [List of programming slack communities](https://slofile.com/category/Programming) 
   - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
- - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
+ - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards.
+- [Tribe.xyz](https://www.tribexyz.com/) - Embedded recruiting for European tech companies. Publishes transparent pricing and runs a blog on TA strategy, hiring operations, and scaling recruiting teams.
 
 
 ## 🔎 Search Engines
