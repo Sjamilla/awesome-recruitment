@@ -307,6 +307,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [BooleanStrings Bank](https://scoperac.com/booleanstringbank/) - String directory for Sourcers. 
 - [Search All](https://chrome.google.com/webstore/detail/search-all/kpdkbemdpepjjppbfgeapjienologapa) - The easiest way to access different search engines.
 - [Balazs Boolean Builder](https://bit.ly/balazs_boolean) - Fantastic Boolean String builder by Balazs Paroczay for the Free version of LinkedIN, read more about it [here](https://www.sourcecon.com/new-and-free-boolean-builder-if-you-dont-have-lir/). 
+- [daily.dev Recruiter](https://recruiter.daily.dev/) - Source developers where they actually hang out; search a community of 1M+ developers by skills, interests and activity.
 
 
 #### :phone: Contact info
