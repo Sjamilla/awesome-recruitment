@@ -365,6 +365,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Global reference checking guidelines](https://zinc.work/blog/post/complete-guide-to-reference-checks)
 
 #### 🗣 Interviewing
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers
 - [Interview Question Generator](https://www.interviewquestiongenerator.com)
 - [Interview Cake](https://www.interviewcake.com/) - Programming Interview Course for developers. 
 - [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
