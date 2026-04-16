@@ -392,6 +392,7 @@ The rest is pretty cool too, but these deserve a special place :)
   - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
+ - [AI Dev Jobs](https://aidevboard.com) - Job board aggregating 6,000+ AI and ML positions from 289+ companies, with free API, RSS feeds, and MCP server for recruiters and AI agents.
 
 
 ## 🔎 Search Engines
