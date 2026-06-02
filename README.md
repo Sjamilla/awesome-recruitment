@@ -392,6 +392,7 @@ The rest is pretty cool too, but these deserve a special place :)
   - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
+ - [FoundRole](https://www.foundrole.com/) - Free AI job search platform with application tracker. 
 
 
 ## 🔎 Search Engines
