@@ -333,6 +333,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Public-APIs list ](https://github.com/toddmotto/public-apis)
  - [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=en)
  - [Scrapy](https://scrapy.org/)
+ - [FreshActors ATS Job Scrapers](https://apify.com/freshactors) - Live job postings from Greenhouse, Lever, Workable, SmartRecruiters & Recruitee boards as normalized JSON — no API key. 💰
 
 #### :octocat: Github Tools
  - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
