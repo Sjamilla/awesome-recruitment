@@ -370,6 +370,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
 - [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
+- [Aural](https://github.com/1146345502/aural-oss) - Open-source, self-hostable AI interview platform for voice, chat, and video interviews.
 
 #### 💸 Compensation & career frameworks. 
 - [PayScale](https://www.payscale.com) 
