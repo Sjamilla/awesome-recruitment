@@ -441,13 +441,14 @@ The rest is pretty cool too, but these deserve a special place :)
 
 
 ##### Twitter Search 
-- [#onemilliontweetmap](onemilliontweetmap.com) - Maps tweets per location.
+- [#onemilliontweetmap](https://onemilliontweetmap.com) - Maps tweets per location.
 - [quarter tweets](http://qtrtweets.com/twitter/) - Twitter location based search.
 - [Twlets Chrome Extention](https://chrome.google.com/webstore/detail/twlets-twitter-to-excel/glmadnnfibhnhgboophnodnhbjdogiec) - Get anyone's tweets, followers, likes, videos, and more into Excel 💰
 - [TwiNL](https://twinl.surfsara.nl) - Search in tweets.
 - [TwiMap](https://twimap.com/) - Search for tweets in a certain location.
 - [Followerwonk](https://followerwonk.com/)
 - [ExportData](https://www.exportdata.io/) - Export followers & followings, historical tweets and more in CSV and Excel. 💰
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ##### Keyword Search 
 - [Answer The Public](https://answerthepublic.com/)
