@@ -370,6 +370,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
 - [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
+- [Aethel](https://aethel.pro/for-companies?utm_source=github&utm_medium=directory&utm_campaign=weekend-demand-2026-09-04) - Guided AI interviews and evidence-backed technical talent profiles for hiring teams.
 
 #### 💸 Compensation & career frameworks. 
 - [PayScale](https://www.payscale.com) 
