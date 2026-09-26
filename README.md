@@ -369,7 +369,8 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Interview Cake](https://www.interviewcake.com/) - Programming Interview Course for developers. 
 - [Workable Interview Questions Templates](https://resources.workable.com/interview-questions/) 
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Repo with interview guides for devs.
-- [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process) 
+- [Open source your interview process](https://github.com/zincwork/Open_Source_Your_Interview_Process)
+- [NorthAssay](https://northassay.com) - Turns a job description into an assessment that tests judgment, with a live AI interview and evidence per requirement.
 
 #### 💸 Compensation & career frameworks. 
 - [PayScale](https://www.payscale.com) 
