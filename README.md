@@ -392,7 +392,7 @@ The rest is pretty cool too, but these deserve a special place :)
   - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards.
- - * [Spark ATS Hiring Pipeline Template](https://comsparkinnovinfra.com/recruitment/index.php?page=pipeline-template) - Free applicant tracking and hiring pipeline template for recruiters and hiring teams. Includes candidate tracking fields and recruitment stages from screening through joining.
+ - [Spark ATS Hiring Pipeline Template](https://comsparkinnovinfra.com/recruitment/index.php?page=pipeline-template) - Free applicant tracking and hiring pipeline template for recruiters and hiring teams. Includes candidate tracking fields and recruitment stages from screening through joining.
 
 
 ## 🔎 Search Engines
