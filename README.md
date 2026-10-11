@@ -392,6 +392,7 @@ The rest is pretty cool too, but these deserve a special place :)
   - [List of Slack Communities](https://airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true)
  - [CV Timeline](https://www.cvtimeline.com/)
  - [Jobboard Finder](https://www.jobboardfinder.com/search) - A search engine to find jobboards. 
+ - [HireLayer Resume Parser](https://hirelayer.co/tools/resume-parser) - Free resume parser: upload a PDF, Word or image CV and get its contact details, work history, education and skills as structured data.
 
 
 ## 🔎 Search Engines
