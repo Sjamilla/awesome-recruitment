@@ -181,6 +181,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [CloudApp](https://www.getcloudapp.com/)
 - [Vidyard - Video Recorder](https://www.vidyard.com/)
 - [bubbles](https://www.usebubbles.com/)
+- [Airtape](https://airtape.co/) - Browser-based remote recording studio for candidate and hiring-manager interviews.
 
 #### 📈 Marketing & Stats
 - [Similar Sites](https://chrome.google.com/webstore/detail/necpbmbhhdiplmfhmjicabdeighkndkn) - Discover Related Websites.
