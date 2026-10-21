@@ -333,6 +333,7 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Public-APIs list ](https://github.com/toddmotto/public-apis)
  - [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=en)
  - [Scrapy](https://scrapy.org/)
+ - [huynhtanan ATS Job Scrapers](https://apify.com/zet46) - 💰 Pay-per-event scrapers for public Greenhouse and Ashby boards with an `onlyNewSinceLastRun` daily-delta mode.
 
 #### :octocat: Github Tools
  - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
