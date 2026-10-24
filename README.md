@@ -381,6 +381,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [TechPays](https://techpays.eu/) - Open source compensation info (Europe) for tech roles.  - [OpenComp](https://www.opencomp.com/) - A visual compensation planning tool with built-in market data.
  - [Progression.fyi](https://www.progression.fyi/) - Open Source Career level frameworks. 
  - [Salary.com](http://salary.com/) - 
+- [Radar Labs open salary dataset](https://sjdfi0wjvosdju9.github.io/salary-data.html) - Free weekly snapshot of pay ranges published by 266 companies, normalised to annual USD, with a public CSV.
 
 
 #### Other stuff
