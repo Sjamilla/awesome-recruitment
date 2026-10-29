@@ -333,6 +333,8 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Public-APIs list ](https://github.com/toddmotto/public-apis)
  - [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo?hl=en)
  - [Scrapy](https://scrapy.org/)
+ - [ATS Hiring Signals](https://apify.com/goldenrod_serrano/ats-hiring-signals) - Apify Actor that exports open jobs from Greenhouse, Lever, Ashby, Workable, SmartRecruiters and Recruitee boards, with a new-jobs monitor. Pay per result.
+ - [Workday Hiring Signals](https://apify.com/goldenrod_serrano/workday-hiring-signals) - Apify Actor that exports open jobs from Workday career sites, filtered by country or city, with a new-jobs monitor. Pay per result.
 
 #### :octocat: Github Tools
  - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
