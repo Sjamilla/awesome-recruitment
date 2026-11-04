@@ -243,6 +243,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [Travelscope](https://www.markuslerner.com/travelscope/) - Worldwide Visa check.
 - [Numbeo](http://www.numbeo.com/cost-of-living/) - Calculate the cost of living. 
 - [Relocate.me](http://relocate.me/) - Job board for people who want to relocate.
+- [Jaabz](https://jaabz.com/) - Tech job board with visa sponsorship, relocation, and remote filters.
 - [Paysa Cost of Living US](https://www.paysa.com/cost-of-living) - Calculate the cost of living. 
 - [TheTax](https://thetax.nl/) - 30% ruling Dutch Income Tax Calculator.
 - [German Net Salary Calculator](https://lohntastik.de/gns/gross-net-salary-calculator) - The calculator will assist you in determining how much of your gross salary will remain after taxes and social contributions have been deducted. 
