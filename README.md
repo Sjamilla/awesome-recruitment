@@ -448,6 +448,7 @@ The rest is pretty cool too, but these deserve a special place :)
 - [TwiMap](https://twimap.com/) - Search for tweets in a certain location.
 - [Followerwonk](https://followerwonk.com/)
 - [ExportData](https://www.exportdata.io/) - Export followers & followings, historical tweets and more in CSV and Excel. 💰
+- [twtData](https://twtdata.com/) - Export followers and followings of public X/Twitter accounts to CSV. 💰
 
 ##### Keyword Search 
 - [Answer The Public](https://answerthepublic.com/)
