@@ -383,6 +383,8 @@ The rest is pretty cool too, but these deserve a special place :)
  - [Salary.com](http://salary.com/) - 
 
 
+- [OpenRadar](https://openradar.fun/research) - Open-source live market compensation analytics, median salary distributions, and role benchmarks derived from aggregated tech vacancies.
+
 #### Other stuff
  - [Indeed Job Trends](https://www.indeed.com/jobtrends/category-trends)
  - [CB Insights](https://www.cbinsights.com/) - Company research. 
