@@ -357,6 +357,10 @@ The rest is pretty cool too, but these deserve a special place :)
 - [TapRecruit](https://taprecruit.co/) - 💰 Smart Job Description Editor. 
 - [Adaface Job Description Generator](https://www.adaface.com/job-description-generator) - Free templates to easily create, edit, publish and share job descriptions for popular roles in tech.
 - [Inclusiveness Check](https://inclusiveness-check.herokuapp.com/) - Analyse your job description for inclusive language and fixed vs growth mindset language 
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 #### 🛠️ Reference Checking Tools
 - [Zinc - Reference Generator](https://zinc.work/reference-generator) - Free Culture-fit reference question generator.
